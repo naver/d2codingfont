@@ -1,12 +1,10 @@
-## D2 Coding 글꼴  
+<img src='https://cloud.githubusercontent.com/assets/6773678/19589214/ef86ccba-97a5-11e6-86a3-5f9b8768961c.JPG' width='150'>
 
-### 다운로드 
+## 다운로드 
    - [Ver 1.2 (2016.10.24 배포)](https://github.com/naver/d2codingfont/releases/download/VER1.2/D2Coding-1.2.zip)
    - 이전 버전들은 [Release 링크](https://github.com/naver/d2codingfont/releases)에 있습니다. 
    
 ### 글꼴 소개 
-<img src='https://cloud.githubusercontent.com/assets/6773678/19589214/ef86ccba-97a5-11e6-86a3-5f9b8768961c.JPG' width='150'>
-
 D2 Coding 글꼴은 나눔바른고딕을 바탕으로 개발자의 코딩을 위해 가독성 및 유사 문자간 변별력 뿐만 아니라 디자인적으로 한글과의 조화를 고려해 최적화시킨 글꼴입니다. D2 Coding 글꼴은 코딩시 유사한 형태의 영문/숫자 뿐만 아니라 한글/특수문자 등에 대한 변별력과 가독성을 강화하였습니다.  또한 고정폭 글꼴로 제작이 되어 어떤 개발환경에서도 자간과 행간을 유지하도록 디자인되어 있습니다. 
 
 ### 명확한  
