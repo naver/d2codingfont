@@ -31,4 +31,4 @@ D2 Coding 글꼴은 나눔바른고딕을 바탕으로 개발자의 코딩을 �
 
 D2 Coding 글꼴은 OFL(Open Font License)이라는 국제적으로 인정받는 공개 글꼴을 위한 라이센스를 채택하여 사용에 대한 제약을 없앰과 동시에 재배포에 대한 제약도 획기적으로 완화하여, 이 라이센스를 명시하기만 하면 다른 프로그램(상용 프로그램 포함)에 이 개발자용 나눔고딕코딩체를 포함하여 재배포하는 것도 허용합니다. 
 
-자세한 사항은 아래 OpenFontLicense를 참고하세요~
+자세한 사항은 아래 [OpenFontLicense](https://github.com/naver/d2codingfont/wiki/Open-Font-License)를 참고하세요~
