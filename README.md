@@ -2,7 +2,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/naver/d2codingfont/total.svg)](download total)
 
 ### 다운로드 
-   - [Ver 1.2 (2016.10.24 배포)](https://github.com/naver/d2codingfont/releases/download/VER1.2/D2Coding-1.2.zip)
+   - [Ver 1.2 (2016.10.24 배포)](https://github.com/naver/d2codingfont/releases/download/VER1.21/D2Coding-1.2.zip)
    - 이전 버전들은 [Release 링크](https://github.com/naver/d2codingfont/releases)에 있습니다. 
    
 ## 글꼴 소개 
