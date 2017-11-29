@@ -1,7 +1,6 @@
 ﻿# D2 Coding 글꼴
 [![Github All Releases](https://img.shields.io/github/downloads/naver/d2codingfont/total.svg)](https://github.com/naver/d2codingfont)
-
-![image](https://user-images.githubusercontent.com/6773678/33361768-e6bc9b68-d51c-11e7-8021-17e2abb3dd94.png)
+![image](https://user-images.githubusercontent.com/6773678/33363823-54504d84-d525-11e7-9b26-0d2b9aec53f9.png)
 ### 다운로드
    - [Ver 1.3 (2017.11.29 배포)](https://github.com/naver/d2codingfont/releases/download/VER1.3/D2Coding-Ver1.3-20171129.zip)
    - 기존 버전은 반드시 삭제후 설치 바랍니다.
