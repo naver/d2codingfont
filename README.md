@@ -1,15 +1,16 @@
-﻿# D2 Coding 글꼴
+﻿# D2 Coding 1.31 글꼴
 [![Github All Releases](https://img.shields.io/github/downloads/naver/d2codingfont/total.svg)](https://github.com/naver/d2codingfont)
 ![image](https://user-images.githubusercontent.com/6773678/33363823-54504d84-d525-11e7-9b26-0d2b9aec53f9.png)
 ### 다운로드
-   - [Ver 1.3 (2017.11.29 배포)](https://github.com/naver/d2codingfont/releases/download/VER1.3/D2Coding-Ver1.3-20171129.zip)
+   - [Ver 1.31 (2017.12.19 배포)](https://github.com/naver/d2codingfont/releases/tag/VER1.31)
    - 기존 버전은 반드시 삭제후 설치 바랍니다.
    - 이전 버전들은 [Release 링크](https://github.com/naver/d2codingfont/releases)에 있습니다.
-   - 출시일: 2017년 11월 29일
+   - 출시일: 2017년 12월 19일
    - 특징
       - 문자열 가독성 개선 : ㅂ받침, 따옴표, 알파벳 일부 문자의 가독성을 개선하였습니다.
       - powerline 심볼 추가 : 쉘환경을 더욱 예쁘게 사용하실 수 있도록 powerline 심볼을 추가하였습니다.
       - ligature 문자 지원 : 코딩에 사용되는 특수 문자들을 간결하고 가독성 있게 볼 수 있도록 ligature 문자들을 지원합니다.
+      - ligature는 적용 폰트, 미적용 폰트로 파일이 분리되어 있습니다. 
 ![image](https://user-images.githubusercontent.com/6773678/33355628-997fe52e-d4fb-11e7-9d1a-64c3b2d42de8.png)
       - 다양한 OS 및 개발도구 지원 : window, mac, linux(ubuntu) 환경에서 다양한 개발도구에서도 사용하실 수 있습니다.
 ![image](https://user-images.githubusercontent.com/6773678/33353005-fac0c8ec-d4ee-11e7-8e51-3077c1771144.png)
