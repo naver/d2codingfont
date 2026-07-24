@@ -241,20 +241,6 @@ code {
 .hero-stats dt { font-size: .74rem; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); }
 .hero-stats dd { font-family: var(--mono); font-size: 1.35rem; font-weight: 700; margin: .15rem 0 0; }
 
-.platforms {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1px;
-  margin: 0 0 1.75rem;
-  background: var(--border);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  overflow: hidden;
-}
-.platforms > div { background: var(--surface); padding: .9rem 1.1rem; }
-.platforms dt { font-size: .74rem; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); }
-.platforms dd { font-family: var(--mono); font-size: .92rem; margin: .3rem 0 0; }
-
 .hero-note { max-width: 64ch; color: var(--muted); font-size: .93rem; }
 
 /* ---------- controls ---------- */

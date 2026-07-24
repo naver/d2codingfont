@@ -18,10 +18,25 @@ check against the real `cmap`, and a report template that captures your settings
 [![The D2 Coding specimen page](site/preview.png)](https://naver.github.io/d2-coding-font/)
 
 D2 Coding runs on Windows, macOS and Linux, and works with a wide range of development tools.
+The simplest install is a double-click: download a TTF from [fonts/ttf](fonts/ttf) or the release
+archive, open it, and press Install (Windows) or Install Font (macOS).
 
-| Windows | macOS | Linux |
-| --- | --- | --- |
-| right-click the TTF, then Install | double-click, then Install Font | copy into `~/.local/share/fonts` |
+The terminal does it in one command, standard and ligature builds both, for the current user;
+the scripts are in [install/](install/).
+
+Linux and macOS:
+
+```sh
+curl -fsSL https://github.com/naver/d2-coding-font/raw/master/install/install.sh | sh
+```
+
+Windows (PowerShell):
+
+```powershell
+irm https://github.com/naver/d2-coding-font/raw/master/install/install.ps1 | iex
+```
+
+Either way, restart the editor or terminal afterwards so it picks the new fonts up.
 
 ## About the typeface
 D2 Coding is based on Nanum Barun Gothic and was optimised for writing code: it improves legibility

@@ -39,9 +39,8 @@ Applies to everything user-facing: the README, site copy, and issue comments.
 
 ## Practical notes
 
-- README screenshots come from `site/` (`preview.png`, `alignment.png`, `distinction.png`).
-  The remaining links to old githubusercontent uploads are leftovers being phased out; do
-  not add new ones.
+- README screenshots come from `site/` (`preview.png`, `alignment.png`, `distinction.png`,
+  `smooth.png`). Do not link to images hosted outside the repository.
 - When `site/og.png` changes, bump the `?v=` on the image URLs in `site/index.html`, and
   keep the declared `og:image:width`/`height` matching the real pixel size. Social sites
   cache the image by URL and trust the declared dimensions.
