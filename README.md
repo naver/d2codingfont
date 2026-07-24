@@ -7,6 +7,12 @@
    - Please uninstall any previously installed version before installing.
    - Older versions are available on the [Releases](https://github.com/naver/d2codingfont/releases) page.
 
+### Try it first
+[**naver.github.io/d2codingfont**](https://naver.github.io/d2codingfont/) — a live specimen with an
+editable playground, the complete ligature list read out of the font, and three tools for pinning
+down a rendering problem before you report it: a size ladder from 8px to 24px, a coverage check
+against the real `cmap`, and a report template that captures your settings and environment.
+
 ![image](https://user-images.githubusercontent.com/6773678/33355628-997fe52e-d4fb-11e7-9d1a-64c3b2d42de8.png)
       - Runs on Windows, macOS and Linux (Ubuntu), and works with a wide range of development tools.
 ![image](https://user-images.githubusercontent.com/6773678/33353005-fac0c8ec-d4ee-11e7-8e51-3077c1771144.png)
@@ -37,11 +43,16 @@ spacing were tuned through an internal beta test with developers to improve the 
 ![3](https://cloud.githubusercontent.com/assets/6773678/19587988/9a9821f2-979d-11e6-8708-bd57220c219f.JPG)
 
 ### Character coverage
-The design covers Hangul, Latin and 332 extended characters, plus 31 control pictures. Hanja is not
-included; Han characters fall back to another font.
+1.3.3 maps 19,966 codepoints over 26,188 glyphs: all 11,172 Hangul syllables, Latin and 332
+extended characters, 31 control pictures, and 4,620 CJK Unified Ideographs plus 268 compatibility
+ideographs.
+
+Earlier versions of this README said Hanja was not included and would fall back to another font.
+That was never true of a released build — 1.0 already carried the same 4,620 ideographs, and they
+are drawn full width, so they render from D2Coding rather than from a fallback.
 
 A Hangul syllable is exactly twice the advance width of a Latin character, so Korean comments and
-string literals keep source code, tables and box drawing output aligned.
+string literals keep source code, tables and box drawing output aligned. Hanja is full width too.
 
 ### Ligature build
 A separate ligature build adds programming ligatures for common operator sequences such as `=>`,
@@ -58,6 +69,9 @@ d2codingfont
 ├── sources/                 reverse-engineered UFO sources
 └── fonts/ttf/               current TTF binaries
 ```
+
+The specimen page lives on the `gh-pages` branch, which has its own history and holds no font
+sources.
 
 The files under `fonts/ttf` are the same binaries that ship inside
 `D2Coding-Ver1.3.3-20260725.zip`; only the file names were changed to follow the
