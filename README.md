@@ -30,16 +30,19 @@ and character spacing stay consistent in any development environment.
 Latin letters, digits and similar looking Hangul symbols were drawn to be easy to tell apart while
 reading code. Hinting was tuned so that the design stays crisp between 8 and 18pt.
 
-[![One-shaped characters, zero-shaped characters and code punctuation in a browser sans-serif, a browser monospace and D2Coding](site/distinction.png)](https://naver.github.io/d2-coding-font/#legibility)
+[![One-shaped characters, zero-shaped characters and code punctuation in Noto Sans, DejaVu Sans Mono and D2Coding](site/distinction.png)](https://naver.github.io/d2-coding-font/#legibility)
 
-The table is live on the [specimen page](https://naver.github.io/d2-coding-font/#legibility): the
-first two rows render in your own browser's fallback fonts, the third row in D2Coding.
+The first two rows of the capture are Noto Sans and DejaVu Sans Mono. On the live
+[specimen page](https://naver.github.io/d2-coding-font/#legibility) the table renders in your own
+browser's fonts instead, with D2Coding always in the third row.
 
 ### Smooth
 Hangul is based on Nanum Barun Gothic, so the letterforms stay soft and blend naturally with the
 Latin design used for code.
 
-![2](https://cloud.githubusercontent.com/assets/6773678/19587989/9a990fae-979d-11e6-82e8-84316b4da96b.JPG)
+[![A syntax-highlighted Java snippet with a Korean comment and a Korean string literal, rendered in D2Coding](site/smooth.png)](https://naver.github.io/d2-coding-font/#smooth)
+
+The same snippet is rendered live on the [specimen page](https://naver.github.io/d2-coding-font/#smooth).
 
 ### Even
 Because it is monospaced, code lines up neatly in any development environment. Line and character
