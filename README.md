@@ -1,14 +1,15 @@
 # D2 Coding
-[![Github All Releases](https://img.shields.io/github/downloads/naver/d2codingfont/total.svg)](https://github.com/naver/d2codingfont)
-![image](https://user-images.githubusercontent.com/6773678/33363823-54504d84-d525-11e7-9b26-0d2b9aec53f9.png)
+[![Github All Releases](https://img.shields.io/github/downloads/naver/d2-coding-font/total.svg)](https://github.com/naver/d2-coding-font)
+
+[![The D2 Coding specimen page](site/preview.png)](https://naver.github.io/d2-coding-font/)
 
 ### Download
-   - [Ver 1.3.3 (released 2026-07-25)](https://github.com/naver/d2codingfont/releases/tag/VER1.3.3)
+   - [Ver 1.3.3 (released 2026-07-25)](https://github.com/naver/d2-coding-font/releases/tag/VER1.3.3)
    - Please uninstall any previously installed version before installing.
-   - Older versions are available on the [Releases](https://github.com/naver/d2codingfont/releases) page.
+   - Older versions are available on the [Releases](https://github.com/naver/d2-coding-font/releases) page.
 
 ### Try it first
-[**naver.github.io/d2codingfont**](https://naver.github.io/d2codingfont/) — a live specimen with an
+[**naver.github.io/d2-coding-font**](https://naver.github.io/d2-coding-font/) — a live specimen with an
 editable playground, the complete ligature list read out of the font, and three tools for pinning
 down a rendering problem before you report it: a size ladder from 8px to 24px, a coverage check
 against the real `cmap`, and a report template that captures your settings and environment.
@@ -61,17 +62,19 @@ identical to the standard build: the two share the exact same outlines and metri
 
 ## Repository layout
 ```
-d2codingfont
+d2-coding-font
 ├── OFL.txt                  SIL Open Font License 1.1 (full text)
+├── LICENSE.md               the same licence, as it read in the project wiki
 ├── AUTHORS.txt              copyright holders
 ├── CONTRIBUTORS.txt         contributors
 ├── documentation/           font description
 ├── sources/                 reverse-engineered UFO sources
+├── site/                    the specimen page published to GitHub Pages
 └── fonts/ttf/               current TTF binaries
 ```
 
-The specimen page lives on the `gh-pages` branch, which has its own history and holds no font
-sources.
+`site/` is deployed by the `Deploy specimen page` GitHub Actions workflow on every push to
+`master`.
 
 The files under `fonts/ttf` are the same binaries that ship inside
 `D2Coding-Ver1.3.3-20260725.zip`; only the file names were changed to follow the
@@ -85,7 +88,7 @@ The files under `fonts/ttf` are the same binaries that ship inside
 | `fonts/ttf/D2Codingligature-Bold.ttf` | D2Coding ligature Bold |
 
 TTC bundles and every earlier version are on the
-[Releases](https://github.com/naver/d2codingfont/releases) page. The release archives used to sit
+[Releases](https://github.com/naver/d2-coding-font/releases) page. The release archives used to sit
 in the repository root as well; they were removed so that the repository holds sources and current
 binaries only. Nothing was lost — every archive that was in the root is attached to its release,
 under the same file name.
@@ -117,5 +120,6 @@ for open fonts. It places no restriction on use, and redistribution is allowed a
 license is included — including bundling the font with other software, commercial software
 included.
 
-The full license text is in [OFL.txt](OFL.txt). It previously lived only in the
-[project wiki](https://github.com/naver/d2codingfont/wiki/Open-Font-License).
+The full license text is in [OFL.txt](OFL.txt), and the same text as it was written in the project
+wiki is in [LICENSE.md](LICENSE.md). Until now it lived only in the wiki, which is what made the
+license hard to find.

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>D2Coding — a monospaced typeface for developers</title>
+<meta name="description" content="Specimen, live playground and issue reproduction tool for D2Coding, the monospaced coding typeface published by NAVER under the SIL Open Font License.">
+<meta property="og:title" content="D2Coding">
+<meta property="og:description" content="A monospaced typeface for developers, from NAVER. Specimen, playground and issue reproduction tool.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='monospace'>D</text></svg>">
+<link rel="preload" href="fonts/D2Coding-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<a class="skip" href="#playground">Skip to the playground</a>
+
+<header class="hero">
+  <nav class="nav">
+    <span class="nav-mark">D2Coding</span>
+    <div class="nav-links">
+      <a href="#playground">Playground</a>
+      <a href="#ligatures">Ligatures</a>
+      <a href="#legibility">Legibility</a>
+      <a href="#hangul">Hangul</a>
+      <a href="#verify">Verify an issue</a>
+      <a href="https://github.com/naver/d2-coding-font">GitHub</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch colour theme">
+        <span data-theme-label>auto</span>
+      </button>
+    </div>
+  </nav>
+
+  <div class="hero-body">
+    <h1 class="hero-title" aria-label="D2Coding">D2Coding</h1>
+    <p class="hero-sub">
+      A monospaced typeface for developers, published by NAVER under the SIL Open Font License.
+      Latin and Hangul share one grid, so Korean comments never break your alignment.
+    </p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="https://github.com/naver/d2-coding-font/releases/latest">Download 1.3.3</a>
+      <a class="btn" href="https://github.com/naver/d2-coding-font">Source on GitHub</a>
+      <a class="btn" href="https://github.com/naver/d2-coding-font/blob/master/OFL.txt">OFL 1.1</a>
+    </div>
+    <dl class="hero-stats">
+      <div><dt>Glyphs</dt><dd id="stat-glyphs">—</dd></div>
+      <div><dt>Codepoints</dt><dd id="stat-codepoints">—</dd></div>
+      <div><dt>Ligatures</dt><dd id="stat-ligatures">—</dd></div>
+      <div><dt>Weights</dt><dd>2</dd></div>
+    </dl>
+    <p class="hero-note">
+      Everything on this page is rendered with the actual 1.3.3 ligature binaries, served as WOFF2.
+      The standard build is the same font with <code>calt</code> switched off, so the ligature
+      toggle below shows you exactly what each build looks like.
+    </p>
+  </div>
+</header>
+
+<main>
+
+<section id="playground" class="section">
+  <div class="section-head">
+    <h2>Playground</h2>
+    <p>Type into the panel. Everything is live, and the settings follow you into the other sections.</p>
+  </div>
+
+  <div class="controls" role="group" aria-label="Type settings">
+    <label class="control">
+      <span class="control-label">Size <output id="out-size">15px</output></span>
+      <input type="range" id="ctl-size" min="8" max="40" step="1" value="15">
+    </label>
+    <label class="control">
+      <span class="control-label">Line height <output id="out-leading">1.55</output></span>
+      <input type="range" id="ctl-leading" min="1" max="2.4" step="0.05" value="1.55">
+    </label>
+    <label class="control">
+      <span class="control-label">Letter spacing <output id="out-tracking">0</output></span>
+      <input type="range" id="ctl-tracking" min="-0.05" max="0.2" step="0.01" value="0">
+    </label>
+    <div class="control control-toggles">
+      <span class="control-label">Options</span>
+      <div class="toggles">
+        <label class="switch"><input type="checkbox" id="ctl-bold"> <span>Bold</span></label>
+        <label class="switch"><input type="checkbox" id="ctl-calt" checked> <span>Ligatures</span></label>
+        <label class="switch"><input type="checkbox" id="ctl-grid"> <span>Grid</span></label>
+        <label class="switch"><input type="checkbox" id="ctl-antialias" checked> <span>Smoothing</span></label>
+      </div>
+    </div>
+  </div>
+
+  <div class="samples" role="group" aria-label="Sample presets">
+    <button type="button" data-sample="js" class="chip is-active">JavaScript</button>
+    <button type="button" data-sample="python" class="chip">Python</button>
+    <button type="button" data-sample="korean" class="chip">Korean comments</button>
+    <button type="button" data-sample="box" class="chip">Box drawing</button>
+    <button type="button" data-sample="confuse" class="chip">Confusables</button>
+    <button type="button" data-sample="lorem" class="chip">Prose</button>
+  </div>
+
+  <div class="editor-wrap">
+    <textarea id="editor" class="editor" spellcheck="false" aria-label="Editable type sample"></textarea>
+  </div>
+</section>
+
+<section id="ligatures" class="section">
+  <div class="section-head">
+    <h2>Ligatures</h2>
+    <p>
+      The ligature build rewrites operator sequences through the OpenType <code>calt</code> feature.
+      Every sequence below was verified against the shipped binary, not copied from a list. The raw
+      characters are printed under each one.
+    </p>
+  </div>
+  <pre class="specimen" id="lig-mixed-demo"></pre>
+  <p class="note">
+    <code>calt</code> is registered under <code>DFLT</code>, <code>latn</code>, <code>cyrl</code>,
+    <code>grek</code>, <code>zinh</code> and <code>zyyy</code> — there is no <code>hang</code>
+    record, but operators sit in their own run, so ligatures still fire on a line that also
+    contains Korean.
+  </p>
+
+  <div class="lig-groups" id="lig-groups"></div>
+</section>
+
+<section id="legibility" class="section">
+  <div class="section-head">
+    <h2>Telling characters apart</h2>
+    <p>
+      The shapes that cost you the most debugging time, side by side. Drag the size slider down to
+      8px — the range the hinting was tuned for — and they should still separate cleanly.
+    </p>
+  </div>
+  <div class="confuse-grid" id="confuse-grid"></div>
+</section>
+
+<section id="hangul" class="section">
+  <div class="section-head">
+    <h2>Hangul on the same grid</h2>
+    <p>
+      A Hangul syllable is exactly twice the advance width of a Latin character. That is what keeps
+      Korean comments, tables and box drawing from tearing your columns apart. Turn on the grid to
+      see the cells.
+    </p>
+  </div>
+  <pre class="specimen" id="hangul-demo"></pre>
+  <p class="note">
+    Coverage is all 11,172 Hangul syllables, Latin and 332 extended characters, 31 control
+    pictures, and 4,620 CJK Unified Ideographs. The README used to say Hanja was missing and would
+    fall back to another font; it never was — check any character you like against the real cmap
+    below.
+  </p>
+</section>
+
+<section id="verify" class="section">
+  <div class="section-head">
+    <h2>Verify an issue</h2>
+    <p>
+      Most reports about a coding typeface come down to “this looks wrong at one particular size”.
+      These three tools exist so a report can carry evidence instead of a description.
+    </p>
+  </div>
+
+  <div class="tool">
+    <h3>Size ladder</h3>
+    <p class="tool-note">The same string at every size from 8px to 24px. Find the size that misbehaves and quote it.</p>
+    <label class="field">
+      <span>Test string</span>
+      <input type="text" id="ladder-input" value="if (i != l) { O0 = 1|I; } // 산세 한글 18pt">
+    </label>
+    <div class="ladder" id="ladder"></div>
+  </div>
+
+  <div class="tool">
+    <h3>Coverage check</h3>
+    <p class="tool-note">Paste anything. Characters the font does not contain are listed here, so you know whether you are looking at a D2Coding glyph or a fallback.</p>
+    <label class="field">
+      <span>Text to check</span>
+      <textarea id="cov-input" rows="3" spellcheck="false">한글 Latin 漢字 ①② ★ 😀</textarea>
+    </label>
+    <div class="cov-result" id="cov-result"></div>
+  </div>
+
+  <div class="tool">
+    <h3>Report template</h3>
+    <p class="tool-note">Your current settings and environment, formatted for a GitHub issue. Copy it into the report so nobody has to ask what you were looking at.</p>
+    <pre class="report" id="report"></pre>
+    <button type="button" class="btn btn-primary" id="copy-report">Copy to clipboard</button>
+    <a class="btn" href="https://github.com/naver/d2-coding-font/issues/new">Open a new issue</a>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <p>
+    D2Coding is © NAVER Corporation, designed by FONTRIX, and licensed under the
+    <a href="https://github.com/naver/d2-coding-font/blob/master/OFL.txt">SIL Open Font License 1.1</a>.
+  </p>
+  <p>
+    This page is part of the <a href="https://github.com/naver/d2-coding-font">naver/d2-coding-font</a>
+    repository and is served from its <code>gh-pages</code> branch.
+  </p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
