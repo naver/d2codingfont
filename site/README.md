@@ -13,7 +13,8 @@ app.js              controls, ligature grid, size ladder, coverage check, report
 data.js             generated (ligature list, cmap ranges, glyph counts)
 fonts/*.woff2       generated (web fonts built from the shipped TTFs)
 og.png              generated (the card shown when the page is shared)
-preview.png         the screenshot used in the repository README
+preview.png         playground screenshot used in the repository README
+alignment.png       grid screenshot used in the repository README
 tools/build-data.py regenerates data.js and the web fonts
 tools/og-card.html  source for og.png
 ```
@@ -29,8 +30,13 @@ google-chrome --headless=new --hide-scrollbars --force-device-scale-factor=2 \
   --screenshot=og.png http://localhost:8000/tools/og-card.html
 ```
 
-If you change the output size, update `og:image:width` and `og:image:height` in `index.html` to
-match. Facebook trusts the declared numbers when it lays the card out before fetching the image.
+Two things to keep in step in `index.html` whenever the card changes:
+
+* `og:image:width` and `og:image:height` must match the real size. Facebook trusts the declared
+  numbers when it lays the card out before fetching the image.
+* Bump the `?v=` on the `og:image`, `og:image:secure_url` and `twitter:image` URLs. Facebook caches
+  the image itself by URL, so re-scraping the page keeps serving the old picture until the URL
+  changes.
 
 ## Regenerating after a font release
 

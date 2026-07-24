@@ -43,7 +43,11 @@ Latin design used for code.
 Because it is monospaced, code lines up neatly in any development environment. Line and character
 spacing were tuned through an internal beta test with developers to improve the readability of code.
 
-![3](https://cloud.githubusercontent.com/assets/6773678/19587988/9a9821f2-979d-11e6-8708-bd57220c219f.JPG)
+[![Latin, Hangul and Hanja on the same monospaced grid](site/alignment.png)](https://naver.github.io/d2-coding-font/#hangul)
+
+Sixteen Latin characters, eight Hangul syllables and eight ideographs all end on the same column.
+The grid above is the one the [specimen page](https://naver.github.io/d2-coding-font/#hangul) can
+draw over any sample.
 
 ### Character coverage
 1.3.3 maps 19,966 codepoints over 26,188 glyphs: all 11,172 Hangul syllables, Latin and 332
