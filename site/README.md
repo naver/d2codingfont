@@ -17,7 +17,6 @@ preview.png         playground screenshot used in the repository README
 alignment.png       grid screenshot used in the repository README
 distinction.png     screenshot of the legibility comparison table, used in the repository README
 smooth.png          screenshot of the highlighted code sample, used in the repository README
-platforms.png       screenshot of the install steps strip, used in the repository README
 tools/build-data.py regenerates data.js and the web fonts
 tools/og-card.html  source for og.png
 ```

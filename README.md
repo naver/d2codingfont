@@ -6,7 +6,8 @@
 ### Download
    - [Ver 1.3.3 (released 2026-07-25)](https://github.com/naver/d2-coding-font/releases/tag/VER1.3.3)
    - Please uninstall any previously installed version before installing.
-   - Older versions are available on the [Releases](https://github.com/naver/d2-coding-font/releases) page.
+   - Older versions are available on the [Releases](https://github.com/naver/d2-coding-font/releases) page,
+     and the version history is in [CHANGELOG.md](CHANGELOG.md).
 
 ### Try it first
 [**naver.github.io/d2-coding-font**](https://naver.github.io/d2-coding-font/) is a live specimen
@@ -18,7 +19,9 @@ check against the real `cmap`, and a report template that captures your settings
 
 D2 Coding runs on Windows, macOS and Linux, and works with a wide range of development tools.
 
-[![Install steps for Windows, macOS and Linux](site/platforms.png)](https://naver.github.io/d2-coding-font/#platforms)
+| Windows | macOS | Linux |
+| --- | --- | --- |
+| right-click the TTF, then Install | double-click, then Install Font | copy into `~/.local/share/fonts` |
 
 ## About the typeface
 D2 Coding is based on Nanum Barun Gothic and was optimised for writing code: it improves legibility
@@ -71,39 +74,6 @@ string literals keep source code, tables and box drawing output aligned. Hanja i
 A separate ligature build adds programming ligatures for common operator sequences such as `=>`,
 `!=`, `<=` and `->` through the OpenType `calt` feature. Apart from that OpenType code it is
 identical to the standard build: the two share the exact same outlines and metrics.
-
-## Repository layout
-```
-d2-coding-font
-├── OFL.txt                  SIL Open Font License 1.1 (full text)
-├── LICENSE.md               the same licence, as it read in the project wiki
-├── AUTHORS.txt              copyright holders
-├── CONTRIBUTORS.txt         contributors
-├── documentation/           font description
-├── sources/                 reverse-engineered UFO sources
-├── site/                    the specimen page published to GitHub Pages
-└── fonts/ttf/               current TTF binaries
-```
-
-`site/` is deployed by the `Deploy specimen page` GitHub Actions workflow on every push to
-`master`.
-
-The files under `fonts/ttf` are the same binaries that ship inside
-`D2Coding-Ver1.3.3-20260725.zip`; only the file names were changed to follow the
-`FamilyName-StyleName.ttf` convention.
-
-| File | Font name |
-| --- | --- |
-| `fonts/ttf/D2Coding-Regular.ttf` | D2Coding Regular |
-| `fonts/ttf/D2Coding-Bold.ttf` | D2Coding Bold |
-| `fonts/ttf/D2Codingligature-Regular.ttf` | D2Coding ligature Regular |
-| `fonts/ttf/D2Codingligature-Bold.ttf` | D2Coding ligature Bold |
-
-TTC bundles and every earlier version are on the
-[Releases](https://github.com/naver/d2-coding-font/releases) page. The release archives used to sit
-in the repository root as well; they were removed so that the repository holds sources and current
-binaries only. Nothing was lost: every archive that was in the root is attached to its release,
-under the same file name.
 
 ## Sources
 The original design sources have never been part of this repository. The typeface was drawn for
