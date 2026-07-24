@@ -10,9 +10,9 @@ There is nothing to build: the workflow uploads these files as they are.
 index.html          the page
 style.css
 app.js              controls, ligature grid, size ladder, coverage check, report template
-data.js             generated — ligature list, cmap ranges, glyph counts
-fonts/*.woff2       generated — web fonts built from the shipped TTFs
-og.png              generated — the card shown when the page is shared
+data.js             generated (ligature list, cmap ranges, glyph counts)
+fonts/*.woff2       generated (web fonts built from the shipped TTFs)
+og.png              generated (the card shown when the page is shared)
 preview.png         the screenshot used in the repository README
 tools/build-data.py regenerates data.js and the web fonts
 tools/og-card.html  source for og.png
@@ -30,7 +30,7 @@ google-chrome --headless=new --hide-scrollbars --force-device-scale-factor=2 \
 ```
 
 If you change the output size, update `og:image:width` and `og:image:height` in `index.html` to
-match — Facebook trusts the declared numbers when it lays the card out before fetching the image.
+match. Facebook trusts the declared numbers when it lays the card out before fetching the image.
 
 ## Regenerating after a font release
 

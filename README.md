@@ -1,7 +1,7 @@
 # D2 Coding
 [![Github All Releases](https://img.shields.io/github/downloads/naver/d2-coding-font/total.svg)](https://github.com/naver/d2-coding-font)
 
-[![The D2 Coding specimen page](site/preview.png)](https://naver.github.io/d2-coding-font/)
+![D2 Coding, a monospaced typeface for developers, from NAVER](site/og.png)
 
 ### Download
    - [Ver 1.3.3 (released 2026-07-25)](https://github.com/naver/d2-coding-font/releases/tag/VER1.3.3)
@@ -9,10 +9,12 @@
    - Older versions are available on the [Releases](https://github.com/naver/d2-coding-font/releases) page.
 
 ### Try it first
-[**naver.github.io/d2-coding-font**](https://naver.github.io/d2-coding-font/) — a live specimen with an
-editable playground, the complete ligature list read out of the font, and three tools for pinning
-down a rendering problem before you report it: a size ladder from 8px to 24px, a coverage check
-against the real `cmap`, and a report template that captures your settings and environment.
+[**naver.github.io/d2-coding-font**](https://naver.github.io/d2-coding-font/) is a live specimen
+with an editable playground, the complete ligature list read out of the font, and three tools for
+pinning down a rendering problem before you report it: a size ladder from 8px to 24px, a coverage
+check against the real `cmap`, and a report template that captures your settings and environment.
+
+[![The D2 Coding specimen page](site/preview.png)](https://naver.github.io/d2-coding-font/)
 
 ![image](https://user-images.githubusercontent.com/6773678/33355628-997fe52e-d4fb-11e7-9d1a-64c3b2d42de8.png)
       - Runs on Windows, macOS and Linux (Ubuntu), and works with a wide range of development tools.
@@ -21,8 +23,8 @@ against the real `cmap`, and a report template that captures your settings and e
 ## About the typeface
 D2 Coding is based on Nanum Barun Gothic and was optimised for writing code: it improves legibility
 and the distinction between similar looking characters, while keeping the Latin design in harmony
-with Hangul. Characters that are easy to confuse while reading code — Latin letters, digits, Hangul
-and punctuation alike — were reworked to stay distinguishable. It is a monospaced typeface, so line
+with Hangul. Characters that are easy to confuse while reading code, whether Latin letters, digits,
+Hangul or punctuation, were reworked to stay distinguishable. It is a monospaced typeface, so line
 and character spacing stay consistent in any development environment.
 
 ### Clear
@@ -49,7 +51,7 @@ extended characters, 31 control pictures, and 4,620 CJK Unified Ideographs plus 
 ideographs.
 
 Earlier versions of this README said Hanja was not included and would fall back to another font.
-That was never true of a released build — 1.0 already carried the same 4,620 ideographs, and they
+That was never true of a released build. 1.0 already carried the same 4,620 ideographs, and they
 are drawn full width, so they render from D2Coding rather than from a fallback.
 
 A Hangul syllable is exactly twice the advance width of a Latin character, so Korean comments and
@@ -90,7 +92,7 @@ The files under `fonts/ttf` are the same binaries that ship inside
 TTC bundles and every earlier version are on the
 [Releases](https://github.com/naver/d2-coding-font/releases) page. The release archives used to sit
 in the repository root as well; they were removed so that the repository holds sources and current
-binaries only. Nothing was lost — every archive that was in the root is attached to its release,
+binaries only. Nothing was lost: every archive that was in the root is attached to its release,
 under the same file name.
 
 ## Sources
@@ -118,7 +120,7 @@ License.
 
 D2 Coding is released under the OFL (SIL Open Font License), an internationally recognised license
 for open fonts. It places no restriction on use, and redistribution is allowed as long as the
-license is included — including bundling the font with other software, commercial software
+license is included. That covers bundling the font with other software, commercial software
 included.
 
 The full license text is in [OFL.txt](OFL.txt), and the same text as it was written in the project

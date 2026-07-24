@@ -32,7 +32,7 @@
 
   var SAMPLES = {
     js: [
-      "// D2Coding 1.3.3 — github.com/naver/d2-coding-font",
+      "// D2Coding 1.3.3 - github.com/naver/d2-coding-font",
       "const OPERATORS = ['!=', '===', '=>', '->', '<=', '|>', '::', '<$>'];",
       "",
       "export function align(rows, width = 12) {",
@@ -126,8 +126,8 @@
       "",
       "It is based on Nanum Barun Gothic, so the Hangul keeps the soft,",
       "even colour of that family while the Latin was reworked for the",
-      "screen: the shapes that get confused while scanning a diff — zero",
-      "against capital O, one against lowercase l, comma against period —",
+      "screen. The shapes that get confused while scanning a diff (zero",
+      "against capital O, one against lowercase l, comma against period)",
       "were pulled apart, and the hinting was tuned for 8 to 18 point,",
       "the range editors and terminals actually run at.",
       "",
@@ -389,7 +389,7 @@
     var btn = this;
     var text = $("#report").textContent;
     var done = function (ok) {
-      btn.textContent = ok ? "Copied" : "Copy failed — select the text above";
+      btn.textContent = ok ? "Copied" : "Copy failed. Select the text above";
       setTimeout(function () { btn.textContent = "Copy to clipboard"; }, 2000);
     };
     if (navigator.clipboard && navigator.clipboard.writeText) {
