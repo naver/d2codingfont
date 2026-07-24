@@ -85,15 +85,6 @@ files under `sources/` were reverse-engineered from the released binaries with
 they are in the shipped TTFs, so they are a starting point for further work rather than the
 original design data. See [sources/README.md](sources/README.md) for details.
 
-## What changed in 1.3.3
-Version 1.3.3 is a metadata-only release; no outline, metric or OpenType data was changed.
-
-* The copyright, trademark and vendor URL records still named NHN Corporation. NAVER Corporation
-  was spun off from NHN in 2013 and is the copyright holder, so those records now read
-  `NAVER Corporation` / `https://www.navercorp.com`.
-* The license URL (name ID 14) pointed at `http://dev.naver.com/wiki/nanumfont/…`, which is dead.
-  It now points at `https://openfontlicense.org`.
-
 ## License
 Anyone may use D2 Coding, and anyone may redistribute it under the terms of the SIL Open Font
 License.
