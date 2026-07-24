@@ -15,6 +15,7 @@ fonts/*.woff2       generated (web fonts built from the shipped TTFs)
 og.png              generated (the card shown when the page is shared)
 preview.png         playground screenshot used in the repository README
 alignment.png       grid screenshot used in the repository README
+distinction.png     screenshot of the legibility comparison table, used in the repository README
 tools/build-data.py regenerates data.js and the web fonts
 tools/og-card.html  source for og.png
 ```

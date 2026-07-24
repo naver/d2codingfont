@@ -16,7 +16,6 @@ check against the real `cmap`, and a report template that captures your settings
 
 [![The D2 Coding specimen page](site/preview.png)](https://naver.github.io/d2-coding-font/)
 
-![image](https://user-images.githubusercontent.com/6773678/33355628-997fe52e-d4fb-11e7-9d1a-64c3b2d42de8.png)
       - Runs on Windows, macOS and Linux (Ubuntu), and works with a wide range of development tools.
 ![image](https://user-images.githubusercontent.com/6773678/33353005-fac0c8ec-d4ee-11e7-8e51-3077c1771144.png)
 
@@ -31,7 +30,10 @@ and character spacing stay consistent in any development environment.
 Latin letters, digits and similar looking Hangul symbols were drawn to be easy to tell apart while
 reading code. Hinting was tuned so that the design stays crisp between 8 and 18pt.
 
-![1](https://cloud.githubusercontent.com/assets/6773678/19587983/8d1a2304-979d-11e6-8320-4e8f0546e716.JPG)
+[![One-shaped characters, zero-shaped characters and code punctuation in a browser sans-serif, a browser monospace and D2Coding](site/distinction.png)](https://naver.github.io/d2-coding-font/#legibility)
+
+The table is live on the [specimen page](https://naver.github.io/d2-coding-font/#legibility): the
+first two rows render in your own browser's fallback fonts, the third row in D2Coding.
 
 ### Smooth
 Hangul is based on Nanum Barun Gothic, so the letterforms stay soft and blend naturally with the

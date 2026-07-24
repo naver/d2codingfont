@@ -384,6 +384,66 @@ input[type="range"] { width: 100%; accent-color: var(--accent); }
   white-space: pre;
 }
 
+/* ---------- comparison table ---------- */
+
+.compare {
+  margin: 0 0 1.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow-x: auto;
+}
+.compare table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+}
+.compare th, .compare td {
+  padding: .5rem .95rem;
+  border-top: 1px solid var(--border);
+  text-align: left;
+  vertical-align: middle;
+}
+.compare tr > * + * { border-left: 1px solid var(--border); }
+.compare thead th {
+  border-top: 0;
+  font-family: var(--mono);
+  font-weight: 400;
+  font-size: .74rem;
+  text-transform: uppercase;
+  letter-spacing: .09em;
+  color: var(--muted);
+}
+.compare tbody th {
+  font-family: var(--mono);
+  font-weight: 400;
+  font-size: .8rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.compare .compare-group {
+  font-size: .74rem;
+  text-transform: uppercase;
+  letter-spacing: .09em;
+}
+.compare td {
+  font-size: 1.4rem;
+  line-height: 1.3;
+  white-space: nowrap;
+}
+.compare .row-sans td { font-family: sans-serif; }
+.compare .row-mono td { font-family: monospace; }
+.compare .row-d2 td { font-family: "D2Coding", monospace; }
+.compare .row-d2 { background: var(--accent-soft); }
+.compare .row-d2 th { color: var(--text); }
+.compare figcaption {
+  padding: .8rem 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: .88rem;
+}
+
 /* ---------- confusables ---------- */
 
 .confuse-grid {

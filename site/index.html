@@ -152,6 +152,71 @@
       8px, the range the hinting was tuned for, and they should still separate cleanly.
     </p>
   </div>
+
+  <figure class="compare" id="compare">
+    <table>
+      <thead>
+        <tr>
+          <th colspan="2"></th>
+          <th scope="col">Digit</th>
+          <th scope="col">Latin</th>
+          <th scope="col">Hangul</th>
+          <th scope="col">Symbol</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row-sans">
+          <th class="compare-group" scope="rowgroup" rowspan="3">1-shaped</th>
+          <th scope="row">Your sans-serif</th>
+          <td>1</td><td>l I</td><td>ㅣ</td><td>|</td>
+        </tr>
+        <tr class="row-mono">
+          <th scope="row">Your monospace</th>
+          <td>1</td><td>l I</td><td>ㅣ</td><td>|</td>
+        </tr>
+        <tr class="row-d2">
+          <th scope="row">D2Coding</th>
+          <td>1</td><td>l I</td><td>ㅣ</td><td>|</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr class="row-sans">
+          <th class="compare-group" scope="rowgroup" rowspan="3">0-shaped</th>
+          <th scope="row">Your sans-serif</th>
+          <td>0</td><td>O o</td><td>ㅇ</td><td></td>
+        </tr>
+        <tr class="row-mono">
+          <th scope="row">Your monospace</th>
+          <td>0</td><td>O o</td><td>ㅇ</td><td></td>
+        </tr>
+        <tr class="row-d2">
+          <th scope="row">D2Coding</th>
+          <td>0</td><td>O o</td><td>ㅇ</td><td></td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr class="row-sans">
+          <th class="compare-group" scope="rowgroup" rowspan="3">Code marks</th>
+          <th scope="row">Your sans-serif</th>
+          <td colspan="4">( ) { } [ ] ' " ` ; : , . - _ = ~ /</td>
+        </tr>
+        <tr class="row-mono">
+          <th scope="row">Your monospace</th>
+          <td colspan="4">( ) { } [ ] ' " ` ; : , . - _ = ~ /</td>
+        </tr>
+        <tr class="row-d2">
+          <th scope="row">D2Coding</th>
+          <td colspan="4">( ) { } [ ] ' " ` ; : , . - _ = ~ /</td>
+        </tr>
+      </tbody>
+    </table>
+    <figcaption>
+      The first two rows render in whatever your browser uses for <code>sans-serif</code> and
+      <code>monospace</code>, so this is a comparison against the fonts you actually read code in.
+      The third row is D2Coding, served as WOFF2.
+    </figcaption>
+  </figure>
+
   <div class="confuse-grid" id="confuse-grid"></div>
 </section>
 
