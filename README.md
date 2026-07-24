@@ -56,8 +56,7 @@ d2codingfont
 ├── CONTRIBUTORS.txt         contributors
 ├── documentation/           font description
 ├── sources/                 reverse-engineered UFO sources
-├── fonts/ttf/               current TTF binaries
-└── *.zip                    per-version release archives (TTC included)
+└── fonts/ttf/               current TTF binaries
 ```
 
 The files under `fonts/ttf` are the same binaries that ship inside
@@ -71,8 +70,11 @@ The files under `fonts/ttf` are the same binaries that ship inside
 | `fonts/ttf/D2Codingligature-Regular.ttf` | D2Coding ligature Regular |
 | `fonts/ttf/D2Codingligature-Bold.ttf` | D2Coding ligature Bold |
 
-TTC bundles and earlier versions are available in the per-version zip archives and on the
-[Releases](https://github.com/naver/d2codingfont/releases) page.
+TTC bundles and every earlier version are on the
+[Releases](https://github.com/naver/d2codingfont/releases) page. The release archives used to sit
+in the repository root as well; they were removed so that the repository holds sources and current
+binaries only. Nothing was lost — every archive that was in the root is attached to its release,
+under the same file name.
 
 ## Sources
 The original design sources are no longer available. The typeface was drawn for NAVER by FONTRIX
