@@ -94,9 +94,10 @@ binaries only. Nothing was lost — every archive that was in the root is attach
 under the same file name.
 
 ## Sources
-The original design sources are no longer available. The typeface was drawn for NAVER by FONTRIX
-in 2015, the people who worked on it have since left, and no `.glyphs` or `.ufo` files were kept.
-The UFO files under `sources/` were therefore reverse-engineered from the released binaries with
+The original design sources have never been part of this repository. The typeface was drawn for
+NAVER by FONTRIX in 2015, and on a project this old, tracking down who still holds the `.glyphs` or
+`.ufo` files takes time. Rather than leave the project without anything to build from, the UFO
+files under `sources/` were reverse-engineered from the released binaries with
 [fontTools](https://github.com/fonttools/fonttools) and
 [extractor](https://github.com/robotools/extractor). They carry the quadratic outlines exactly as
 they are in the shipped TTFs, so they are a starting point for further work rather than the

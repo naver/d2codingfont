@@ -2,10 +2,10 @@
 
 These UFO files are **not** the original design data.
 
-The typeface was drawn for NAVER by FONTRIX in 2015. The original sources were never part of this
-repository, the people who worked on them have since left, and no `.glyphs`, `.ufo` or `.vfb` files
-were kept. What is here was reverse-engineered from the released TTF binaries so that the project
-can be built on and fixed from now on.
+The typeface was drawn for NAVER by FONTRIX in 2015 and the original sources were never part of
+this repository. On a project this old, working out who still holds the `.glyphs`, `.ufo` or `.vfb`
+files takes time, and it may turn out that nobody does. What is here was reverse-engineered from
+the released TTF binaries so that there is something to build on and fix in the meantime.
 
 ## How these were produced
 
