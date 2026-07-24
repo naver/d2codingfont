@@ -1,0 +1,69 @@
+# Changelog
+
+The archive for every version is attached to its tag on the
+[Releases](https://github.com/naver/d2-coding-font/releases) page. Versions 1.0 and 1.1
+predate this repository; their archives were re-uploaded when the project moved from
+dev.naver.com to GitHub, and their dates below come from the archive names.
+
+## 1.3.3 (2026-07-25)
+
+A metadata-only release. Only the `name` and `head` tables were rewritten; every other
+table is byte identical to 1.3.2, and shaping output is unchanged.
+
+- The copyright, trademark and vendor URL records still credited NHN Corporation. NAVER
+  Corporation was spun off from NHN in 2013 and is the copyright holder, so those records
+  now read `NAVER Corporation` and `https://www.navercorp.com`.
+- The license URL (name ID 14) pointed at a dead `dev.naver.com` wiki page. It now points
+  at `https://openfontlicense.org`.
+- `OFL.txt` is included in the release archive. The full license text used to live only in
+  the project wiki.
+
+## 1.3.2 (2018-05-24)
+
+- Fixed the shortened `i` at 18pt in IntelliJ, Android Studio and Visual Studio Code
+  ([#70](https://github.com/naver/d2-coding-font/issues/70)).
+- Fixed glyph height problems: 산 at 19px, 세 at 16pt and 18pt.
+- Fixed the bold lowercase `y` being drawn smaller than the surrounding characters
+  ([#67](https://github.com/naver/d2-coding-font/issues/67)).
+- Improved the legibility of the empty heart symbol U+2661
+  ([#69](https://github.com/naver/d2-coding-font/issues/69)).
+- Fixed the tab indicator overlapping the `>>` marks in Source Insight 4.0
+  ([#68](https://github.com/naver/d2-coding-font/issues/68)).
+
+## 1.3.1 (2017-12-19)
+
+Re-issued on 2018-01-15 to correct the version name from 1.31 to 1.3.1.
+
+- Split the ligature and standard fonts into separate builds
+  ([#59](https://github.com/naver/d2-coding-font/issues/59)).
+- Fixed character display in Total Commander
+  ([#64](https://github.com/naver/d2-coding-font/issues/64)).
+- Fixed broken rendering in GNOME
+  ([#56](https://github.com/naver/d2-coding-font/issues/56)).
+- Fixed the `@` character at 15pt
+  ([#57](https://github.com/naver/d2-coding-font/issues/57)).
+
+## 1.3 (2017-11-29)
+
+- Improved legibility of the ㅂ final consonant, of single against double quotation marks,
+  and of `b`, `d` and `h`, whose short ascenders could read as `o` or `n`.
+- Added powerline symbols.
+- Added programming ligatures for common operator sequences through the OpenType `calt`
+  feature.
+- Fixed the font not appearing in some development tools; verified on Windows 7/10,
+  OS X 10.7 through macOS 10.12, and Ubuntu 14/16 across the common editors and IDEs.
+
+## 1.2 (2016-10-21)
+
+- Added 31 control pictures (arrows, boxes and the other ASCII control characters).
+
+## 1.1 (2015-11-03)
+
+- Made consecutive underscores distinguishable.
+- Fixed the character width at 10pt in Visual Studio.
+- Fixed the Hangul advance width so it stays exactly twice the Latin width at every size.
+
+## 1.0 (2015-09-11)
+
+The first release: Regular and Bold, drawn for NAVER by FONTRIX, with the Hangul based on
+Nanum Barun Gothic, distributed as a TTC.

@@ -47,3 +47,5 @@ Applies to everything user-facing: the README, site copy, and issue comments.
   cache the image by URL and trust the declared dimensions.
 - After changing the site or the fonts, check the rendering on the live page or a local
   serve of `site/` before reporting the change as done.
+- The release procedure is in `RELEASE.md`; `tools/release.py` does the mechanical steps
+  (version bump, `CHANGELOG.md` scaffold, site data, release zip).
