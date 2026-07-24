@@ -16,8 +16,9 @@ check against the real `cmap`, and a report template that captures your settings
 
 [![The D2 Coding specimen page](site/preview.png)](https://naver.github.io/d2-coding-font/)
 
-      - Runs on Windows, macOS and Linux (Ubuntu), and works with a wide range of development tools.
-![image](https://user-images.githubusercontent.com/6773678/33353005-fac0c8ec-d4ee-11e7-8e51-3077c1771144.png)
+D2 Coding runs on Windows, macOS and Linux, and works with a wide range of development tools.
+
+[![Install steps for Windows, macOS and Linux](site/platforms.png)](https://naver.github.io/d2-coding-font/#platforms)
 
 ## About the typeface
 D2 Coding is based on Nanum Barun Gothic and was optimised for writing code: it improves legibility

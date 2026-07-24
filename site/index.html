@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>D2Coding: a monospaced typeface for developers</title>
-<meta name="description" content="A monospaced typeface for developers, published by NAVER under the SIL Open Font License. Latin and Hangul share one grid. Live specimen, playground and issue reproduction tools.">
+<meta name="description" content="A monospaced typeface for developers, published by NAVER under the SIL Open Font License. Latin and Hangul share one grid. Live specimen, playground and tools for reproducing rendering problems.">
 <link rel="canonical" href="https://naver.github.io/d2-coding-font/">
 
 <meta name="theme-color" content="#fbfbf9" media="(prefers-color-scheme: light)">
@@ -14,7 +14,7 @@
 <meta property="og:site_name" content="D2Coding">
 <meta property="og:url" content="https://naver.github.io/d2-coding-font/">
 <meta property="og:title" content="D2Coding: a monospaced typeface for developers">
-<meta property="og:description" content="A monospaced typeface for developers, published by NAVER under the SIL Open Font License. Latin and Hangul share one grid. Live specimen, playground and issue reproduction tools.">
+<meta property="og:description" content="A monospaced typeface for developers, published by NAVER under the SIL Open Font License. Latin and Hangul share one grid. Live specimen, playground and tools for reproducing rendering problems.">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://naver.github.io/d2-coding-font/og.png?v=2">
 <meta property="og:image:secure_url" content="https://naver.github.io/d2-coding-font/og.png?v=2">
@@ -25,7 +25,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="D2Coding: a monospaced typeface for developers">
-<meta name="twitter:description" content="Published by NAVER under the SIL Open Font License. Latin and Hangul share one grid. Live specimen, playground and issue reproduction tools.">
+<meta name="twitter:description" content="Published by NAVER under the SIL Open Font License. Latin and Hangul share one grid. Live specimen, playground and tools for reproducing rendering problems.">
 <meta name="twitter:image" content="https://naver.github.io/d2-coding-font/og.png?v=2">
 <meta name="twitter:image:alt" content="D2Coding set large, above a line of code showing a Korean comment and the != and => ligatures.">
 
@@ -45,7 +45,7 @@
       <a href="#ligatures">Ligatures</a>
       <a href="#legibility">Legibility</a>
       <a href="#hangul">Hangul</a>
-      <a href="#verify">Verify an issue</a>
+      <a href="#verify">Rendering problems</a>
       <a href="https://github.com/naver/d2-coding-font">GitHub</a>
       <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch colour theme">
         <span data-theme-label>auto</span>
@@ -69,6 +69,11 @@
       <div><dt>Codepoints</dt><dd id="stat-codepoints">—</dd></div>
       <div><dt>Ligatures</dt><dd id="stat-ligatures">—</dd></div>
       <div><dt>Weights</dt><dd>2</dd></div>
+    </dl>
+    <dl class="platforms" id="platforms">
+      <div><dt>Windows</dt><dd>right-click the TTF, then Install</dd></div>
+      <div><dt>macOS</dt><dd>double-click, then Install Font</dd></div>
+      <div><dt>Linux</dt><dd>copy into ~/.local/share/fonts</dd></div>
     </dl>
     <p class="hero-note">
       Everything on this page is rendered with the actual 1.3.3 ligature binaries, served as WOFF2.
@@ -251,7 +256,7 @@
 
 <section id="verify" class="section">
   <div class="section-head">
-    <h2>Verify an issue</h2>
+    <h2>Verify a rendering problem</h2>
     <p>
       Most reports about a coding typeface come down to “this looks wrong at one particular size”.
       These three tools exist so a report can carry evidence instead of a description.

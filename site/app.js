@@ -1,4 +1,4 @@
-/* D2Coding specimen + issue reproduction page.
+/* D2Coding specimen + rendering problem reproduction page.
    LIGATURES / COVERAGE / GLYPH_COUNT / CODEPOINT_COUNT come from data.js,
    which is generated from the shipped 1.3.3 binaries. */
 

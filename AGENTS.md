@@ -7,7 +7,7 @@ Working notes for coding agents on this repository.
 D2 Coding is NAVER's monospaced coding font for Korean and Latin, drawn by FONTRIX and
 released under the SIL Open Font License 1.1. The layout follows the Google Fonts upstream
 convention, and the specimen page at <https://naver.github.io/d2-coding-font/> doubles as
-the demo and the issue reproduction tool.
+the demo and the place to reproduce rendering problems.
 
 - `fonts/ttf/` holds the four shipped binaries: Regular and Bold, in standard and ligature
   builds. The ligature builds are a strict superset of the standard ones, so one set of
