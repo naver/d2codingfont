@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>D2Coding social card source</title>
+<!--
+  Source for og.png, the image shown when the page is shared on social media.
+  Render it at exactly 1200x630 with:
+
+    google-chrome --headless=new --hide-scrollbars --force-device-scale-factor=2 \
+      --window-size=1200,630 --virtual-time-budget=8000 \
+      --screenshot=og.png site/tools/og-card.html
+
+  Serve the directory over HTTP first; the fonts are loaded relative to this file.
+-->
+<style>
+  @font-face {
+    font-family: "D2Coding";
+    src: url("../fonts/D2Coding-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-display: block;
+  }
+  @font-face {
+    font-family: "D2Coding";
+    src: url("../fonts/D2Coding-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-display: block;
+  }
+
+  * { box-sizing: border-box; margin: 0; }
+
+  html, body { width: 1200px; height: 630px; overflow: hidden; }
+
+  body {
+    background: #fbfbf9;
+    color: #16181c;
+    font-family: "D2Coding", monospace;
+    display: grid;
+    grid-template-rows: 1fr auto;
+    padding: 64px 72px 56px;
+  }
+
+  .top { display: flex; flex-direction: column; justify-content: center; }
+
+  h1 {
+    font-size: 128px;
+    font-weight: 700;
+    letter-spacing: -.045em;
+    line-height: 1;
+  }
+
+  .tagline {
+    margin-top: 24px;
+    font-size: 28px;
+    line-height: 1.45;
+    color: #4a4f57;
+    white-space: nowrap;
+  }
+
+  .code {
+    margin-top: 38px;
+    font-size: 26px;
+    line-height: 1.62;
+    color: #16181c;
+    background: #fff;
+    border: 1px solid #e2e2dd;
+    border-radius: 12px;
+    padding: 20px 26px;
+    white-space: pre;
+    font-feature-settings: "calt" 1;
+  }
+  .code .dim { color: #7c828b; }
+
+  .bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 22px;
+    color: #656a72;
+    border-top: 1px solid #e2e2dd;
+    padding-top: 22px;
+    margin-top: 34px;
+  }
+  .bar b { color: #03864a; font-weight: 700; }
+</style>
+</head>
+<body>
+  <div class="top">
+    <h1>D2Coding</h1>
+    <p class="tagline">A monospaced typeface for developers, from NAVER.</p>
+    <div class="code"><span class="dim">// 한글 주석도 열을 무너뜨리지 않습니다</span>
+const ok = a != b ? x => y : z;</div>
+  </div>
+  <div class="bar">
+    <span>naver.github.io/<b>d2-coding-font</b></span>
+    <span>OFL 1.1 · 26,188 glyphs</span>
+  </div>
+</body>
+</html>
