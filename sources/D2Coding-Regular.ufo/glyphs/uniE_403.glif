@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE403" format="2">
+  <advance width="1000"/>
+  <unicode hex="E403"/>
+  <outline>
+    <contour>
+      <point x="940" y="586" type="line"/>
+      <point x="940" y="15" type="line"/>
+      <point x="458" y="15" type="line"/>
+      <point x="458" y="-206" type="line"/>
+      <point x="70" y="301" type="line"/>
+      <point x="458" y="807" type="line"/>
+      <point x="458" y="586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l940+586l940+15l458+15l458-206l70+301l458+807l458+586|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

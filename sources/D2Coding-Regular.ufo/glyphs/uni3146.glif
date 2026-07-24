@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3146" format="2">
+  <advance width="1000"/>
+  <unicode hex="3146"/>
+  <outline>
+    <contour>
+      <point x="686" y="428" type="line"/>
+      <point x="707" y="329"/>
+      <point x="817" y="201"/>
+      <point x="901" y="156" type="qcurve"/>
+      <point x="849" y="94" type="line"/>
+      <point x="785" y="130"/>
+      <point x="685" y="237"/>
+      <point x="653" y="311" type="qcurve"/>
+      <point x="621" y="222"/>
+      <point x="514" y="84"/>
+      <point x="442" y="42" type="qcurve"/>
+      <point x="390" y="101" type="line"/>
+      <point x="508" y="167"/>
+      <point x="619" y="400"/>
+      <point x="613" y="550" type="qcurve"/>
+      <point x="696" y="550" type="line"/>
+      <point x="694" y="486"/>
+      <point x="684" y="428" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="382" y="550" type="line"/>
+      <point x="384" y="515"/>
+      <point x="378" y="447"/>
+      <point x="372" y="415" type="qcurve"/>
+      <point x="379" y="382"/>
+      <point x="403" y="331"/>
+      <point x="436" y="288"/>
+      <point x="480" y="251"/>
+      <point x="508" y="233" type="qcurve"/>
+      <point x="495" y="216"/>
+      <point x="466" y="186"/>
+      <point x="449" y="172" type="qcurve"/>
+      <point x="415" y="201"/>
+      <point x="358" y="267"/>
+      <point x="337" y="308" type="qcurve"/>
+      <point x="308" y="241"/>
+      <point x="210" y="131"/>
+      <point x="141" y="93" type="qcurve"/>
+      <point x="89" y="155" type="line"/>
+      <point x="148" y="186"/>
+      <point x="231" y="266"/>
+      <point x="281" y="365"/>
+      <point x="302" y="482"/>
+      <point x="299" y="550" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+41
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+14
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>31e97a6a7b837a1af312f54704d3a3cdee03bb3ecbf318d72121a22fb3a7959ee818d1ffdd62a303f89e9add732ef8d350e9af64491ba5582ba33c70ffd9734c</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

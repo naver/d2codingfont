@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance width="500"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="440" y="694" type="line"/>
+      <point x="440" y="16" type="line"/>
+      <point x="354" y="16" type="line"/>
+      <point x="354" y="620" type="line"/>
+      <point x="146" y="620" type="line"/>
+      <point x="146" y="16" type="line"/>
+      <point x="60" y="16" type="line"/>
+      <point x="60" y="694" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l440+694l440+16l354+16l354+620l146+620l146+16l60+16l60+694|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

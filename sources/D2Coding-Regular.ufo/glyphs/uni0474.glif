@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0474" format="2">
+  <advance width="500"/>
+  <unicode hex="0474"/>
+  <outline>
+    <contour>
+      <point x="498" y="600" type="line"/>
+      <point x="486" y="600" type="line"/>
+      <point x="462" y="625"/>
+      <point x="437" y="625" type="qcurve"/>
+      <point x="422" y="625"/>
+      <point x="401" y="593"/>
+      <point x="394" y="565" type="qcurve"/>
+      <point x="268" y="16" type="line"/>
+      <point x="165" y="16" type="line"/>
+      <point x="0" y="694" type="line"/>
+      <point x="94" y="694" type="line"/>
+      <point x="215" y="110" type="line"/>
+      <point x="313" y="594" type="line"/>
+      <point x="324" y="649"/>
+      <point x="385" y="705"/>
+      <point x="430" y="705" type="qcurve"/>
+      <point x="469" y="705"/>
+      <point x="498" y="683" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+15
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+8
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+96 15 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+15
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+3 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+8
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+11 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 2 values pushed */
+7 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+10
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+9
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2c025a430fd550e6ea0c5651f634ad52dac96f4f47aa50ffff3d144a34ceee5d85b6a06dd2d2a76e75d73be3c0f3a7d84cd8921b0381d8c0eadac2df1d8b11d6</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

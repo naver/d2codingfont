@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE21D" format="2">
+  <advance width="1000"/>
+  <unicode hex="E21D"/>
+  <outline>
+    <contour>
+      <point x="795" y="302" type="line"/>
+      <point x="503" y="630" type="line"/>
+      <point x="206" y="302" type="line"/>
+      <point x="503" y="-22" type="line"/>
+    </contour>
+    <contour>
+      <point x="813" y="336" type="line"/>
+      <point x="813" y="647" type="line"/>
+      <point x="529" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="528" y="-42" type="line"/>
+      <point x="813" y="-42" type="line"/>
+      <point x="813" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="647" type="line"/>
+      <point x="188" y="334" type="line"/>
+      <point x="473" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="272" type="line"/>
+      <point x="188" y="-42" type="line"/>
+      <point x="473" y="-42" type="line"/>
+    </contour>
+    <contour>
+      <point x="840" y="-77" type="line"/>
+      <point x="160" y="-77" type="line"/>
+      <point x="160" y="678" type="line"/>
+      <point x="840" y="678" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>8d04aa51e638288a6f2c4fa10991334c1cc16d1c5b9dade2c72be4cbb2e1432c71bb02111d4a9371198576c185c4d741ac0cae89b7aa0d68e05dd62898dbbcf0</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

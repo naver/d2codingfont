@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="suchthat" format="2">
+  <advance width="500"/>
+  <unicode hex="220B"/>
+  <outline>
+    <contour>
+      <point x="376" y="371" type="line"/>
+      <point x="373" y="413"/>
+      <point x="360" y="451" type="qcurve"/>
+      <point x="342" y="504"/>
+      <point x="281" y="565"/>
+      <point x="244" y="565" type="qcurve"/>
+      <point x="52" y="565" type="line"/>
+      <point x="52" y="633" type="line"/>
+      <point x="244" y="633" type="line"/>
+      <point x="299" y="633"/>
+      <point x="393" y="554"/>
+      <point x="447" y="418"/>
+      <point x="447" y="256"/>
+      <point x="393" y="120"/>
+      <point x="299" y="40"/>
+      <point x="244" y="40" type="qcurve"/>
+      <point x="52" y="40" type="line"/>
+      <point x="52" y="109" type="line"/>
+      <point x="244" y="109" type="line"/>
+      <point x="281" y="109"/>
+      <point x="311" y="140" type="qcurve"/>
+      <point x="342" y="170"/>
+      <point x="360" y="223" type="qcurve"/>
+      <point x="373" y="261"/>
+      <point x="376" y="302" type="qcurve"/>
+      <point x="52" y="302" type="line"/>
+      <point x="52" y="371" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>aa399a33884a36be6e61108cd26511886c64689930682c69d5bdd3530011c722ea086d38a081bb32340d1fc31d24595a7bd8c2ff316f4c913dad0e11bbb0f3f8</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

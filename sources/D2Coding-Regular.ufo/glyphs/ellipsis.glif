@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="500"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="32" y="124" type="line"/>
+      <point x="134" y="124" type="line"/>
+      <point x="134" y="0" type="line"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="124" type="line"/>
+      <point x="466" y="124" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="124" type="line"/>
+      <point x="300" y="124" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l32+124l134+124l134+0l32+0|l364+124l466+124l466+0l364+0|l198+124l300+124l300+0l198+0|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

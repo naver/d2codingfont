@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5B9C" format="2">
+  <advance width="1000"/>
+  <unicode hex="5B9C"/>
+  <outline>
+    <contour>
+      <point x="795" y="413" type="line"/>
+      <point x="795" y="586" type="line"/>
+      <point x="211" y="586" type="line"/>
+      <point x="211" y="413" type="line"/>
+      <point x="136" y="413" type="line"/>
+      <point x="136" y="648" type="line"/>
+      <point x="471" y="648" type="line"/>
+      <point x="471" y="685" type="line"/>
+      <point x="471" y="705"/>
+      <point x="469" y="756"/>
+      <point x="462" y="776" type="qcurve"/>
+      <point x="554" y="776" type="line"/>
+      <point x="549" y="755"/>
+      <point x="547" y="705"/>
+      <point x="547" y="685" type="qcurve"/>
+      <point x="547" y="648" type="line"/>
+      <point x="870" y="648" type="line"/>
+      <point x="870" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="-79" type="line"/>
+      <point x="97" y="-18" type="line"/>
+      <point x="269" y="-18" type="line"/>
+      <point x="269" y="487" type="line"/>
+      <point x="738" y="487" type="line"/>
+      <point x="738" y="-18" type="line"/>
+      <point x="915" y="-18" type="line"/>
+      <point x="915" y="-79" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="428" type="line"/>
+      <point x="342" y="428" type="line"/>
+      <point x="342" y="323" type="line"/>
+      <point x="663" y="323" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="263" type="line"/>
+      <point x="342" y="263" type="line"/>
+      <point x="342" y="144" type="line"/>
+      <point x="663" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="84" type="line"/>
+      <point x="342" y="84" type="line"/>
+      <point x="342" y="-18" type="line"/>
+      <point x="663" y="-18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>f972ed97e992f9bd63fbbd9a65d89f581f55cf629a7da56bf20f6d0872de310e541de102424540fe030a6e7570124aa6ae4c27833bf70e26c74f21a0da00ac54</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

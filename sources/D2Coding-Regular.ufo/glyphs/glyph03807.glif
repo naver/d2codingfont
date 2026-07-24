@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03807" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="388" y="752" type="line"/>
+      <point x="112" y="752" type="line"/>
+      <point x="112" y="817" type="line"/>
+      <point x="388" y="817" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+3 1 0 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l388+752l112+752l112+817l388+817|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

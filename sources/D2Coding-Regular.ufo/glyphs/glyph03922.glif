@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03922" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="236" y="262" type="line"/>
+      <point x="382" y="70" type="line"/>
+      <point x="329" y="16" type="line"/>
+      <point x="201" y="190" type="line"/>
+      <point x="-724" y="190" type="line"/>
+      <point x="-694" y="168"/>
+      <point x="-673" y="139" type="qcurve"/>
+      <point x="-620" y="70" type="line"/>
+      <point x="-673" y="16" type="line"/>
+      <point x="-899" y="321" type="line"/>
+      <point x="-673" y="626" type="line"/>
+      <point x="-620" y="572" type="line"/>
+      <point x="-673" y="504" type="line"/>
+      <point x="-696" y="473"/>
+      <point x="-724" y="452" type="qcurve"/>
+      <point x="201" y="452" type="line"/>
+      <point x="329" y="626" type="line"/>
+      <point x="382" y="572" type="line"/>
+      <point x="236" y="380" type="line"/>
+      <point x="-767" y="380" type="line"/>
+      <point x="-811" y="321" type="line"/>
+      <point x="-767" y="262" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+2
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+8
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+16
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 4 values pushed */
+0 1 3 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+15 1 18 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>47d0ebc52ba2e0e251a058fa4927ce3e527706102b069e50390cd59e465fd0413f9458763813c4cb95912b670252cf29c4ec71a1941665206040f46b35139544</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEE8A" format="2">
+  <advance width="1000"/>
+  <unicode hex="EE8A"/>
+  <outline>
+    <contour>
+      <point x="945" y="118" type="line"/>
+      <point x="945" y="-134" type="line"/>
+      <point x="898" y="-134" type="line"/>
+      <point x="898" y="42" type="line"/>
+      <point x="99" y="42" type="line"/>
+      <point x="99" y="-134" type="line"/>
+      <point x="54" y="-134" type="line"/>
+      <point x="54" y="118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l945+118l945-134l898-134l898+42l99+42l99-134l54-134l54+118|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

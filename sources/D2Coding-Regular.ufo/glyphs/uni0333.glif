@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0333" format="2">
+  <advance width="500"/>
+  <unicode hex="0333"/>
+  <outline>
+    <contour>
+      <point x="457" y="-117" type="line"/>
+      <point x="457" y="-178" type="line"/>
+      <point x="42" y="-178" type="line"/>
+      <point x="42" y="-117" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="0" type="line"/>
+      <point x="457" y="-61" type="line"/>
+      <point x="42" y="-61" type="line"/>
+      <point x="42" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+1
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 2 values pushed */
+0 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+5
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 2 values pushed */
+4 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l457-117l457-178l42-178l42-117|l457+0l457-61l42-61l42+0|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

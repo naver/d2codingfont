@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicron" format="2">
+  <advance width="500"/>
+  <unicode hex="039F"/>
+  <outline>
+    <contour>
+      <point x="249" y="705" type="qcurve"/>
+      <point x="310" y="705"/>
+      <point x="392" y="661"/>
+      <point x="441" y="574"/>
+      <point x="461" y="442"/>
+      <point x="461" y="354" type="qcurve"/>
+      <point x="461" y="266"/>
+      <point x="441" y="134"/>
+      <point x="392" y="47"/>
+      <point x="310" y="3"/>
+      <point x="249" y="3" type="qcurve"/>
+      <point x="188" y="3"/>
+      <point x="107" y="47"/>
+      <point x="59" y="134"/>
+      <point x="39" y="266"/>
+      <point x="39" y="354" type="qcurve"/>
+      <point x="39" y="442"/>
+      <point x="59" y="574"/>
+      <point x="107" y="661"/>
+      <point x="188" y="705"/>
+    </contour>
+    <contour>
+      <point x="249" y="634" type="qcurve"/>
+      <point x="180" y="634"/>
+      <point x="124" y="500"/>
+      <point x="124" y="354" type="qcurve"/>
+      <point x="124" y="208"/>
+      <point x="180" y="74"/>
+      <point x="249" y="74" type="qcurve"/>
+      <point x="318" y="74"/>
+      <point x="376" y="208"/>
+      <point x="376" y="354" type="qcurve"/>
+      <point x="376" y="500"/>
+      <point x="318" y="634"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+26
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+96 0 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+143 26 1
+DELTAP2[ ]	/* DeltaExceptionP2 */
+PUSHW[ ]	/* 2 values pushed */
+10 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+0
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+20 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>775840a344eb87760dee60d44fd436609c76834728e0a1d4e0ca503502708b8060494e59355b114d391929263eced5ee507b86038ed90c2a387667127897e95d</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

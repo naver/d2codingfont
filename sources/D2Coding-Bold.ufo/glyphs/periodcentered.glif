@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="500"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="164" y="298" type="qcurve"/>
+      <point x="164" y="316"/>
+      <point x="178" y="347"/>
+      <point x="201" y="370"/>
+      <point x="232" y="384"/>
+      <point x="250" y="384" type="qcurve"/>
+      <point x="268" y="384"/>
+      <point x="299" y="370"/>
+      <point x="322" y="347"/>
+      <point x="336" y="316"/>
+      <point x="336" y="298" type="qcurve"/>
+      <point x="336" y="280"/>
+      <point x="322" y="249"/>
+      <point x="299" y="226"/>
+      <point x="268" y="212"/>
+      <point x="250" y="212" type="qcurve"/>
+      <point x="232" y="212"/>
+      <point x="201" y="226"/>
+      <point x="178" y="249"/>
+      <point x="164" y="280"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+5
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+95 5 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+15
+MDRP[11100]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>bdcab4a04dd574664ae650c49f7cf19ea897f7301455db63db4316a273775388777f22f488ca2bebf66c5e3f674410feb4e1045894b00e578f8cb69fb67a0b2c</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

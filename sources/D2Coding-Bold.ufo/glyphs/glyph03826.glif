@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03826" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="10" y="48" type="line"/>
+      <point x="261" y="338" type="line"/>
+      <point x="18" y="629" type="line"/>
+      <point x="18" y="662" type="line"/>
+      <point x="114" y="662" type="line"/>
+      <point x="389" y="338" type="line"/>
+      <point x="108" y="16" type="line"/>
+      <point x="10" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="271" type="line"/>
+      <point x="11" y="169" type="line"/>
+      <point x="-166" y="290" type="line"/>
+      <point x="-149" y="70" type="line"/>
+      <point x="-267" y="70" type="line"/>
+      <point x="-248" y="288" type="line"/>
+      <point x="-429" y="168" type="line"/>
+      <point x="-489" y="270" type="line"/>
+      <point x="-291" y="357" type="line"/>
+      <point x="-491" y="448" type="line"/>
+      <point x="-424" y="550" type="line"/>
+      <point x="-250" y="428" type="line"/>
+      <point x="-267" y="646" type="line"/>
+      <point x="-148" y="646" type="line"/>
+      <point x="-167" y="428" type="line"/>
+      <point x="10" y="550" type="line"/>
+      <point x="74" y="445" type="line"/>
+      <point x="-123" y="357" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+3
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+10 6 3
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+13 6 3
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+16 6 3
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+19 6 3
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+22 6 3
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+25 6 3
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>df5eb4359904a2bf78d95cfbcd376f4521891095209af0e6e43dd4a78ec47114e17afb55ab6080c7bc58b4b767128751416d20732fc96fb9039edd8779bf4035</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

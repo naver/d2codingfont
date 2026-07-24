@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEE90" format="2">
+  <advance width="1000"/>
+  <unicode hex="EE90"/>
+  <outline>
+    <contour>
+      <point x="945" y="780" type="line"/>
+      <point x="945" y="-157" type="line"/>
+      <point x="869" y="-157" type="line"/>
+      <point x="869" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l945+780l945-157l869-157l869+780|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

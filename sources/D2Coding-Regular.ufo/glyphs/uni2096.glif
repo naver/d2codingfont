@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2096" format="2">
+  <advance width="500"/>
+  <unicode hex="2096"/>
+  <outline>
+    <contour>
+      <point x="126" y="357" type="line"/>
+      <point x="175" y="357" type="line"/>
+      <point x="175" y="153" type="line"/>
+      <point x="298" y="259" type="line"/>
+      <point x="355" y="259" type="line"/>
+      <point x="242" y="163" type="line"/>
+      <point x="374" y="5" type="line"/>
+      <point x="315" y="5" type="line"/>
+      <point x="210" y="136" type="line"/>
+      <point x="175" y="107" type="line"/>
+      <point x="175" y="5" type="line"/>
+      <point x="126" y="5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l126+357l175+357l175+153l298+259l355+259l242+163l374+5l315+5l210+136l175+107l175+5l126+5|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

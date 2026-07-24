@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2596" format="2">
+  <advance width="500"/>
+  <unicode hex="2596"/>
+  <outline>
+    <contour>
+      <point x="-8" y="-108" type="line"/>
+      <point x="-8" y="316" type="line"/>
+      <point x="250" y="316" type="line"/>
+      <point x="250" y="-108" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l-8-108l-8+316l250+316l250-108|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

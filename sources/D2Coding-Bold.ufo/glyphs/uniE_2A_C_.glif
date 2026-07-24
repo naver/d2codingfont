@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE2AC" format="2">
+  <advance width="1000"/>
+  <unicode hex="E2AC"/>
+  <outline>
+    <contour>
+      <point x="68" y="-179" type="line"/>
+      <point x="68" y="780" type="line"/>
+      <point x="931" y="780" type="line"/>
+      <point x="931" y="-179" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="104" type="line"/>
+      <point x="492" y="104" type="line"/>
+      <point x="492" y="-88" type="line"/>
+      <point x="823" y="301" type="line"/>
+      <point x="492" y="693" type="line"/>
+      <point x="492" y="497" type="line"/>
+      <point x="232" y="497" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l68-179l68+780l931+780l931-179|l232+104l492+104l492-88l823+301l492+693l492+497l232+497|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

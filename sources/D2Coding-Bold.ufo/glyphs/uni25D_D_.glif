@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25DD" format="2">
+  <advance width="500"/>
+  <unicode hex="25DD"/>
+  <outline>
+    <contour>
+      <point x="126" y="556" type="line"/>
+      <point x="188" y="556"/>
+      <point x="250" y="520" type="qcurve"/>
+      <point x="374" y="449"/>
+      <point x="374" y="306" type="qcurve"/>
+      <point x="324" y="306" type="line"/>
+      <point x="324" y="420"/>
+      <point x="225" y="477" type="qcurve"/>
+      <point x="175" y="505"/>
+      <point x="126" y="505" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l126+556o188+556q250+520o374+449q374+306l324+306o324+420q225+477o175+505q126+505|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

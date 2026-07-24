@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03919" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-125" y="350" type="line"/>
+      <point x="244" y="145" type="line"/>
+      <point x="206" y="59" type="line"/>
+      <point x="-245" y="304" type="line"/>
+      <point x="-245" y="396" type="line"/>
+      <point x="206" y="641" type="line"/>
+      <point x="244" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="-230" y="144" type="line"/>
+      <point x="220" y="-98" type="line"/>
+      <point x="182" y="-184" type="line"/>
+      <point x="-268" y="61" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+5
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+9
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+0 9 5
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l-125+350l244+145l206+59l-245+304l-245+396l206+641l244+555|l-230+144l220-98l182-184l-268+61|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

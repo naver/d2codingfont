@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03867" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="386" y="380" type="line"/>
+      <point x="-86" y="380" type="line"/>
+      <point x="-48" y="472" type="line"/>
+      <point x="386" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="386" y="183" type="line"/>
+      <point x="-151" y="183" type="line"/>
+      <point x="-114" y="274" type="line"/>
+      <point x="386" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="-295" y="-71" type="line"/>
+      <point x="-403" y="-71" type="line"/>
+      <point x="-104" y="737" type="line"/>
+      <point x="1" y="737" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+8
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 4 values pushed */
+7 1 4 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+3 1 0 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l386+380l-86+380l-48+472l386+472|l386+183l-151+183l-114+274l386+274|l-295-71l-403-71l-104+737l1+737|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

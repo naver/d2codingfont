@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25EB" format="2">
+  <advance width="500"/>
+  <unicode hex="25EB"/>
+  <outline>
+    <contour>
+      <point x="273" y="105" type="line"/>
+      <point x="451" y="105" type="line"/>
+      <point x="451" y="507" type="line"/>
+      <point x="273" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="105" type="line"/>
+      <point x="227" y="105" type="line"/>
+      <point x="227" y="507" type="line"/>
+      <point x="49" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="2" y="58" type="line"/>
+      <point x="2" y="553" type="line"/>
+      <point x="497" y="553" type="line"/>
+      <point x="497" y="58" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l273+105l451+105l451+507l273+507|l49+105l227+105l227+507l49+507|l2+58l2+553l497+553l497+58|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

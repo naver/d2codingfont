@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni203F" format="2">
+  <advance width="500"/>
+  <unicode hex="203F"/>
+  <outline>
+    <contour>
+      <point x="249" y="-137" type="qcurve"/>
+      <point x="188" y="-137"/>
+      <point x="66" y="-89"/>
+      <point x="1" y="-41" type="qcurve"/>
+      <point x="1" y="10" type="line"/>
+      <point x="63" y="-33"/>
+      <point x="124" y="-53" type="qcurve"/>
+      <point x="155" y="-64"/>
+      <point x="215" y="-74"/>
+      <point x="248" y="-74" type="qcurve"/>
+      <point x="312" y="-74"/>
+      <point x="435" y="-32"/>
+      <point x="498" y="10" type="qcurve"/>
+      <point x="498" y="-41" type="line"/>
+      <point x="433" y="-89"/>
+      <point x="310" y="-137"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500q249-137o188-137o66-89q1-41l1+10o63-33q124-53o155-64o215-74q248-74o312-74o435-32q498+10l498-41o433-89o310-137|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

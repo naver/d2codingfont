@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03921" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="440" y="321" type="line"/>
+      <point x="214" y="16" type="line"/>
+      <point x="161" y="70" type="line"/>
+      <point x="214" y="139" type="line"/>
+      <point x="235" y="168"/>
+      <point x="265" y="190" type="qcurve"/>
+      <point x="-765" y="190" type="line"/>
+      <point x="-735" y="168"/>
+      <point x="-714" y="139" type="qcurve"/>
+      <point x="-661" y="70" type="line"/>
+      <point x="-714" y="16" type="line"/>
+      <point x="-940" y="321" type="line"/>
+      <point x="-714" y="626" type="line"/>
+      <point x="-661" y="572" type="line"/>
+      <point x="-714" y="504" type="line"/>
+      <point x="-737" y="473"/>
+      <point x="-765" y="452" type="qcurve"/>
+      <point x="265" y="452" type="line"/>
+      <point x="237" y="473"/>
+      <point x="214" y="504" type="qcurve"/>
+      <point x="161" y="572" type="line"/>
+      <point x="214" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="262" type="line"/>
+      <point x="352" y="321" type="line"/>
+      <point x="308" y="380" type="line"/>
+      <point x="-808" y="380" type="line"/>
+      <point x="-852" y="321" type="line"/>
+      <point x="-808" y="262" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+1
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+12
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+21
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 4 values pushed */
+22 1 5 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+17 1 24 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>07543a754b935779847975150183ff3e8c2e0475bcd5c82798be68f9e15eeb3ec8273da3b44f5d05278d69053a47d25a26ecab49f90fafb2be99e2306c365f0f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

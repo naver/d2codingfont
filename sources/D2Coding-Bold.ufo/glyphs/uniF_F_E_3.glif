@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFFE3" format="2">
+  <advance width="1000"/>
+  <unicode hex="FFE3"/>
+  <outline>
+    <contour>
+      <point x="936" y="682" type="line"/>
+      <point x="64" y="682" type="line"/>
+      <point x="64" y="794" type="line"/>
+      <point x="936" y="794" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l936+682l64+682l64+794l936+794|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

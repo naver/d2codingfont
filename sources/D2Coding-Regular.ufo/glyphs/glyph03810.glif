@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03810" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="316" y="752" type="line"/>
+      <point x="234" y="752" type="line"/>
+      <point x="83" y="872" type="line"/>
+      <point x="206" y="872" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+2
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l316+752l234+752l83+872l206+872|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

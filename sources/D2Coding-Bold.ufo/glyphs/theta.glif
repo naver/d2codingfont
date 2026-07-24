@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theta" format="2">
+  <advance width="500"/>
+  <unicode hex="03B8"/>
+  <outline>
+    <contour>
+      <point x="43" y="369" type="qcurve"/>
+      <point x="43" y="563"/>
+      <point x="148" y="737"/>
+      <point x="248" y="737" type="qcurve"/>
+      <point x="348" y="737"/>
+      <point x="456" y="562"/>
+      <point x="456" y="368" type="qcurve"/>
+      <point x="456" y="332"/>
+      <point x="451" y="250"/>
+      <point x="436" y="169"/>
+      <point x="408" y="94"/>
+      <point x="361" y="37"/>
+      <point x="294" y="3"/>
+      <point x="248" y="3" type="qcurve"/>
+      <point x="179" y="3"/>
+      <point x="98" y="66"/>
+      <point x="55" y="169"/>
+      <point x="43" y="301"/>
+    </contour>
+    <contour>
+      <point x="352" y="422" type="line"/>
+      <point x="345" y="654"/>
+      <point x="248" y="654" type="qcurve"/>
+      <point x="200" y="654"/>
+      <point x="150" y="541"/>
+      <point x="147" y="422" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="147" y="335" type="line"/>
+      <point x="147" y="268"/>
+      <point x="161" y="174"/>
+      <point x="187" y="115"/>
+      <point x="224" y="88"/>
+      <point x="248" y="88" type="qcurve"/>
+      <point x="271" y="88"/>
+      <point x="309" y="115"/>
+      <point x="336" y="173"/>
+      <point x="351" y="267"/>
+      <point x="352" y="335" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>e51cfaba1175db507c599bf3c68f149efb76fcfa4a2dc6ac8dabb4a862eb3077a1285049b34c5b0d16afa052f358af9940c820b77fbbd76b94c4c60413df160a</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

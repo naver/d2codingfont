@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni66F0" format="2">
+  <advance width="1000"/>
+  <unicode hex="66F0"/>
+  <outline>
+    <contour>
+      <point x="725" y="-47" type="line"/>
+      <point x="725" y="-5" type="line"/>
+      <point x="270" y="-5" type="line"/>
+      <point x="270" y="-73" type="line"/>
+      <point x="194" y="-73" type="line"/>
+      <point x="194" y="717" type="line"/>
+      <point x="800" y="717" type="line"/>
+      <point x="800" y="-47" type="line"/>
+    </contour>
+    <contour>
+      <point x="725" y="654" type="line"/>
+      <point x="270" y="654" type="line"/>
+      <point x="270" y="399" type="line"/>
+      <point x="710" y="399" type="line"/>
+      <point x="710" y="332" type="line"/>
+      <point x="270" y="332" type="line"/>
+      <point x="270" y="59" type="line"/>
+      <point x="725" y="59" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l725-47l725-5l270-5l270-73l194-73l194+717l800+717l800-47|l725+654l270+654l270+399l710+399l710+332l270+332l270+59l725+59|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

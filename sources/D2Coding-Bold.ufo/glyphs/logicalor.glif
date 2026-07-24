@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalor" format="2">
+  <advance width="500"/>
+  <unicode hex="2228"/>
+  <outline>
+    <contour>
+      <point x="66" y="521" type="line"/>
+      <point x="144" y="521" type="line"/>
+      <point x="250" y="140" type="line"/>
+      <point x="355" y="521" type="line"/>
+      <point x="432" y="521" type="line"/>
+      <point x="298" y="40" type="line"/>
+      <point x="202" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l66+521l144+521l250+140l355+521l432+521l298+40l202+40|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

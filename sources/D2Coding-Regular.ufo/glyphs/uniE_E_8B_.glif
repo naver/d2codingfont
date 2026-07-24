@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEE8B" format="2">
+  <advance width="1000"/>
+  <unicode hex="EE8B"/>
+  <outline>
+    <contour>
+      <point x="945" y="503" type="line"/>
+      <point x="54" y="503" type="line"/>
+      <point x="54" y="756" type="line"/>
+      <point x="99" y="756" type="line"/>
+      <point x="99" y="579" type="line"/>
+      <point x="898" y="579" type="line"/>
+      <point x="898" y="756" type="line"/>
+      <point x="945" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l945+503l54+503l54+756l99+756l99+579l898+579l898+756l945+756|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

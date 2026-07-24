@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE167" format="2">
+  <advance width="1000"/>
+  <unicode hex="E167"/>
+  <outline>
+    <contour>
+      <point x="68" y="301" type="qcurve"/>
+      <point x="68" y="377"/>
+      <point x="95" y="504"/>
+      <point x="135" y="607"/>
+      <point x="184" y="685"/>
+      <point x="205" y="714" type="qcurve"/>
+      <point x="243" y="714" type="line"/>
+      <point x="178" y="619"/>
+      <point x="128" y="406"/>
+      <point x="128" y="301" type="qcurve"/>
+      <point x="128" y="192"/>
+      <point x="179" y="-16"/>
+      <point x="243" y="-113" type="qcurve"/>
+      <point x="205" y="-113" type="line"/>
+      <point x="184" y="-86"/>
+      <point x="136" y="-7"/>
+      <point x="95" y="96"/>
+      <point x="68" y="224"/>
+    </contour>
+    <contour>
+      <point x="931" y="301" type="qcurve"/>
+      <point x="931" y="224"/>
+      <point x="904" y="96"/>
+      <point x="863" y="-7"/>
+      <point x="815" y="-86"/>
+      <point x="794" y="-113" type="qcurve"/>
+      <point x="756" y="-113" type="line"/>
+      <point x="820" y="-16"/>
+      <point x="872" y="192"/>
+      <point x="872" y="301" type="qcurve"/>
+      <point x="872" y="406"/>
+      <point x="821" y="619"/>
+      <point x="756" y="714" type="qcurve"/>
+      <point x="794" y="714" type="line"/>
+      <point x="815" y="685"/>
+      <point x="864" y="607"/>
+      <point x="904" y="504"/>
+      <point x="931" y="377"/>
+    </contour>
+    <contour>
+      <point x="501" y="240" type="line"/>
+      <point x="339" y="-18" type="line"/>
+      <point x="251" y="-18" type="line"/>
+      <point x="457" y="312" type="line"/>
+      <point x="266" y="619" type="line"/>
+      <point x="354" y="619" type="line"/>
+      <point x="501" y="383" type="line"/>
+      <point x="647" y="619" type="line"/>
+      <point x="735" y="619" type="line"/>
+      <point x="544" y="312" type="line"/>
+      <point x="750" y="-18" type="line"/>
+      <point x="662" y="-18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>02df25a5eccd3aacd607298f868010b986199a9cc76323b19c0f368e84f053ad63b2dec20853744f4cc659156a41c616db968087125b41d6caeec72fc3f91abc</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

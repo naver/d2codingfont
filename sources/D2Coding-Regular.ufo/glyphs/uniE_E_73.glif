@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEE73" format="2">
+  <advance width="1000"/>
+  <unicode hex="EE73"/>
+  <outline>
+    <contour>
+      <point x="941" y="752" type="line"/>
+      <point x="982" y="743" type="line"/>
+      <point x="923" y="501" type="line"/>
+      <point x="86" y="501" type="line"/>
+      <point x="23" y="744" type="line"/>
+      <point x="61" y="758" type="line"/>
+      <point x="116" y="548" type="line"/>
+      <point x="890" y="548" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l941+752l982+743l923+501l86+501l23+744l61+758l116+548l890+548|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

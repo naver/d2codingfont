@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3380" format="2">
+  <advance width="1000"/>
+  <unicode hex="3380"/>
+  <outline>
+    <contour>
+      <point x="927" y="-68" type="line"/>
+      <point x="852" y="-68" type="line"/>
+      <point x="793" y="127" type="line"/>
+      <point x="529" y="127" type="line"/>
+      <point x="470" y="-68" type="line"/>
+      <point x="395" y="-68" type="line"/>
+      <point x="617" y="676" type="line"/>
+      <point x="705" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="770" y="207" type="line"/>
+      <point x="661" y="574" type="line"/>
+      <point x="552" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="403" type="qcurve"/>
+      <point x="230" y="403"/>
+      <point x="184" y="298"/>
+      <point x="184" y="202" type="qcurve"/>
+      <point x="184" y="106"/>
+      <point x="230" y="1"/>
+      <point x="267" y="1" type="qcurve"/>
+      <point x="305" y="1"/>
+      <point x="350" y="106"/>
+      <point x="350" y="202" type="qcurve"/>
+      <point x="350" y="298"/>
+      <point x="305" y="403"/>
+    </contour>
+    <contour>
+      <point x="184" y="-36" type="qcurve"/>
+      <point x="184" y="-257" type="line"/>
+      <point x="118" y="-257" type="line"/>
+      <point x="118" y="472" type="line"/>
+      <point x="184" y="472" type="line"/>
+      <point x="184" y="436" type="line"/>
+      <point x="203" y="462"/>
+      <point x="248" y="491"/>
+      <point x="275" y="491" type="qcurve"/>
+      <point x="309" y="491"/>
+      <point x="363" y="451"/>
+      <point x="401" y="376"/>
+      <point x="422" y="269"/>
+      <point x="422" y="202" type="qcurve"/>
+      <point x="422" y="134"/>
+      <point x="401" y="27"/>
+      <point x="363" y="-48"/>
+      <point x="309" y="-88"/>
+      <point x="275" y="-88" type="qcurve"/>
+      <point x="249" y="-88"/>
+      <point x="203" y="-61"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>78c2257ac1c513c333854af46e8968802d7e472653ec3905d88f1baa6b57a3017fde7e1977ba5a09349e2997f65a89ff870eb172d616e61eedf45ac52cef1d9e</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03932" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-150" y="732" type="line"/>
+      <point x="-68" y="732" type="line"/>
+      <point x="-85" y="684" type="line"/>
+      <point x="343" y="366" type="line"/>
+      <point x="343" y="280" type="line"/>
+      <point x="26" y="43" type="line"/>
+      <point x="-11" y="105" type="line"/>
+      <point x="283" y="323" type="line"/>
+      <point x="-110" y="614" type="line"/>
+      <point x="-358" y="-65" type="line"/>
+      <point x="-440" y="-65" type="line"/>
+      <point x="-423" y="-17" type="line"/>
+      <point x="-851" y="301" type="line"/>
+      <point x="-851" y="387" type="line"/>
+      <point x="-534" y="624" type="line"/>
+      <point x="-497" y="562" type="line"/>
+      <point x="-791" y="344" type="line"/>
+      <point x="-398" y="53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+9
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+7 9 0
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+8 9 0
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+16 9 0
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+17 9 0
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>28e17ead1e1e72584ff02f0fa481461902a90fb4816f03db4147fe7fecac829e3019293ace49402b62063974a24f82a146729d807984ecab407ebfb9a5666f4d</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

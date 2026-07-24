@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3131" format="2">
+  <advance width="1000"/>
+  <unicode hex="3131"/>
+  <outline>
+    <contour>
+      <point x="699" y="61" type="line"/>
+      <point x="699" y="464" type="line"/>
+      <point x="200" y="464" type="line"/>
+      <point x="200" y="540" type="line"/>
+      <point x="785" y="540" type="line"/>
+      <point x="785" y="61" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+3
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+61 3 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 2 values pushed */
+2 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l699+61l699+464l200+464l200+540l785+540l785+61|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

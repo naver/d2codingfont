@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03855" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-351" y="326" type="qcurve"/>
+      <point x="-351" y="378"/>
+      <point x="-293" y="447"/>
+      <point x="-249" y="447" type="qcurve"/>
+      <point x="-206" y="447"/>
+      <point x="-147" y="378"/>
+      <point x="-147" y="325" type="qcurve"/>
+      <point x="-147" y="273"/>
+      <point x="-205" y="204"/>
+      <point x="-249" y="204" type="qcurve"/>
+      <point x="-293" y="204"/>
+      <point x="-351" y="274"/>
+    </contour>
+    <contour>
+      <point x="-30" y="362" type="line"/>
+      <point x="396" y="362" type="line"/>
+      <point x="396" y="287" type="line"/>
+      <point x="-30" y="287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHW[ ]	/* 3 values pushed */
+6 0 3
+CALL[ ]	/* CallFunction */
+NPUSHW[ ]	/* 27 values pushed */
+6 6 22 6 38 6 54 6 70 6 86 6 102 6 118 6 134 6 150 6 166 6 182 6 198 6 13
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 5 values pushed */
+213 6 229 6 2
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 3 values pushed */
+3 9 3
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+13 1 14 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>162ea4f63186f2d0405cf2476b659d9591f4e10e804c0cf7be481126f01f63be1a979433885f122a7016937d45cd61bb3fc6cbdc64f38caab33b8875d373e1f3</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

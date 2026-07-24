@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3148" format="2">
+  <advance width="1000"/>
+  <unicode hex="3148"/>
+  <outline>
+    <contour>
+      <point x="580" y="286" type="qcurve"/>
+      <point x="645" y="245"/>
+      <point x="784" y="175"/>
+      <point x="873" y="143" type="qcurve"/>
+      <point x="817" y="75" type="line"/>
+      <point x="737" y="106"/>
+      <point x="589" y="190"/>
+      <point x="523" y="240" type="qcurve"/>
+      <point x="448" y="186"/>
+      <point x="278" y="98"/>
+      <point x="189" y="64" type="qcurve"/>
+      <point x="136" y="132" type="line"/>
+      <point x="221" y="159"/>
+      <point x="381" y="239"/>
+      <point x="513" y="330"/>
+      <point x="609" y="426"/>
+      <point x="632" y="470" type="qcurve"/>
+      <point x="575" y="467"/>
+      <point x="465" y="466"/>
+      <point x="409" y="466" type="qcurve"/>
+      <point x="218" y="466" type="line"/>
+      <point x="218" y="541" type="line"/>
+      <point x="492" y="541" type="line"/>
+      <point x="557" y="541"/>
+      <point x="689" y="541"/>
+      <point x="759" y="543" type="qcurve"/>
+      <point x="740" y="471"/>
+      <point x="646" y="343"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+22
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+61 22 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 2 values pushed */
+18 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>be387d53de6763071350fbbf949da8047bc424eeb07bb0829de2bd26e1c81b02db5f207f8c8bc20afa3de77022c4b176efb00944a5ff066344005bd273771bab</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

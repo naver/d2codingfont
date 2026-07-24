@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE2EF" format="2">
+  <advance width="1000"/>
+  <unicode hex="E2EF"/>
+  <outline>
+    <contour>
+      <point x="319" y="155" type="line"/>
+      <point x="319" y="107" type="line"/>
+      <point x="319" y="71"/>
+      <point x="337" y="23"/>
+      <point x="366" y="-7"/>
+      <point x="403" y="-19"/>
+      <point x="423" y="-19" type="qcurve"/>
+      <point x="442" y="-19"/>
+      <point x="480" y="-7"/>
+      <point x="509" y="23"/>
+      <point x="527" y="71"/>
+      <point x="527" y="107" type="qcurve"/>
+      <point x="527" y="664" type="line"/>
+      <point x="613" y="664" type="line"/>
+      <point x="613" y="89" type="line"/>
+      <point x="613" y="42"/>
+      <point x="583" y="-30"/>
+      <point x="531" y="-79"/>
+      <point x="462" y="-104"/>
+      <point x="423" y="-104" type="qcurve"/>
+      <point x="384" y="-104"/>
+      <point x="315" y="-79"/>
+      <point x="263" y="-30"/>
+      <point x="233" y="42"/>
+      <point x="233" y="89" type="qcurve"/>
+      <point x="233" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="848" y="16" type="qcurve"/>
+      <point x="875" y="16"/>
+      <point x="904" y="-20"/>
+      <point x="904" y="-42" type="qcurve"/>
+      <point x="904" y="-65"/>
+      <point x="875" y="-99"/>
+      <point x="848" y="-99" type="qcurve"/>
+      <point x="821" y="-99"/>
+      <point x="791" y="-65"/>
+      <point x="791" y="-42" type="qcurve"/>
+      <point x="791" y="-19"/>
+      <point x="821" y="16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>b774ebc2b4f7733eed7ecebbda95f9488380670c8ec0aa3577f935256d7deac4d89ffa02fe161abbb448f1592d6432cbaae976890be3e8de658126cbab1181cf</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

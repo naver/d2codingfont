@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni260D" format="2">
+  <advance width="500"/>
+  <unicode hex="260D"/>
+  <outline>
+    <contour>
+      <point x="129" y="301" type="qcurve"/>
+      <point x="100" y="301"/>
+      <point x="56" y="256"/>
+      <point x="56" y="194"/>
+      <point x="100" y="149"/>
+      <point x="160" y="149"/>
+      <point x="203" y="194"/>
+      <point x="203" y="256"/>
+      <point x="160" y="301"/>
+    </contour>
+    <contour>
+      <point x="369" y="307" type="qcurve"/>
+      <point x="400" y="307"/>
+      <point x="442" y="352"/>
+      <point x="442" y="415"/>
+      <point x="400" y="459"/>
+      <point x="339" y="459"/>
+      <point x="296" y="415"/>
+      <point x="296" y="352"/>
+      <point x="339" y="307"/>
+    </contour>
+    <contour>
+      <point x="232" y="273" type="line"/>
+      <point x="242" y="251"/>
+      <point x="242" y="224" type="qcurve"/>
+      <point x="242" y="177"/>
+      <point x="176" y="109"/>
+      <point x="129" y="109" type="qcurve"/>
+      <point x="84" y="109"/>
+      <point x="18" y="177"/>
+      <point x="18" y="224" type="qcurve"/>
+      <point x="18" y="273"/>
+      <point x="84" y="340"/>
+      <point x="129" y="340" type="qcurve"/>
+      <point x="177" y="340"/>
+      <point x="209" y="306" type="qcurve"/>
+      <point x="209" y="306"/>
+      <point x="210" y="305" type="qcurve"/>
+      <point x="266" y="341" type="line"/>
+      <point x="259" y="360"/>
+      <point x="259" y="383" type="qcurve"/>
+      <point x="259" y="431"/>
+      <point x="323" y="498"/>
+      <point x="369" y="498" type="qcurve"/>
+      <point x="416" y="498"/>
+      <point x="481" y="431"/>
+      <point x="481" y="383" type="qcurve"/>
+      <point x="481" y="335"/>
+      <point x="416" y="268"/>
+      <point x="369" y="268" type="qcurve"/>
+      <point x="324" y="268"/>
+      <point x="291" y="302" type="qcurve"/>
+      <point x="288" y="304"/>
+      <point x="286" y="308" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>123f614da3c300b04f4ca3dff281d9c3c8405f748612154b5ec2e1fd37845c1d3f1f9f991bc5a9979f7483333da98553cdb8eed77834f68d60874dc5c6a6b99a</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

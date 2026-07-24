@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3133" format="2">
+  <advance width="1000"/>
+  <unicode hex="3133"/>
+  <outline>
+    <contour>
+      <point x="542" y="33" type="qcurve"/>
+      <point x="471" y="92" type="line"/>
+      <point x="471" y="51" type="line"/>
+      <point x="351" y="51" type="line"/>
+      <point x="351" y="444" type="line"/>
+      <point x="151" y="444" type="line"/>
+      <point x="151" y="550" type="line"/>
+      <point x="471" y="550" type="line"/>
+      <point x="471" y="128" type="line"/>
+      <point x="518" y="168"/>
+      <point x="580" y="257"/>
+      <point x="614" y="360"/>
+      <point x="624" y="481"/>
+      <point x="619" y="555" type="qcurve"/>
+      <point x="738" y="555" type="line"/>
+      <point x="739" y="510"/>
+      <point x="735" y="431"/>
+      <point x="730" y="396" type="qcurve"/>
+      <point x="748" y="306"/>
+      <point x="837" y="162"/>
+      <point x="900" y="110" type="qcurve"/>
+      <point x="811" y="35" type="line"/>
+      <point x="726" y="115"/>
+      <point x="681" y="221" type="qcurve"/>
+      <point x="657" y="167"/>
+      <point x="587" y="77"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+13
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+3
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+6
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+5 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>bccc3800794774c6610ef2fe0179f49885e2fcac1e1aa36a483f0970f8cc12facfd8653395c1046509d380517b3b498d41b5d44f4666fb31837b1659ac61f65b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

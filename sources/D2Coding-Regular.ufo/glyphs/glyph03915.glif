@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03915" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="398" y="323" type="line"/>
+      <point x="172" y="18" type="line"/>
+      <point x="119" y="72" type="line"/>
+      <point x="239" y="228" type="line"/>
+      <point x="268" y="267"/>
+      <point x="292" y="286" type="qcurve"/>
+      <point x="-792" y="286" type="line"/>
+      <point x="-768" y="267"/>
+      <point x="-739" y="228" type="qcurve"/>
+      <point x="-619" y="72" type="line"/>
+      <point x="-672" y="18" type="line"/>
+      <point x="-898" y="323" type="line"/>
+      <point x="-672" y="628" type="line"/>
+      <point x="-619" y="574" type="line"/>
+      <point x="-739" y="418" type="line"/>
+      <point x="-760" y="391"/>
+      <point x="-775" y="372"/>
+      <point x="-792" y="360" type="qcurve"/>
+      <point x="292" y="360" type="line"/>
+      <point x="275" y="372"/>
+      <point x="260" y="391"/>
+      <point x="239" y="418" type="qcurve"/>
+      <point x="119" y="574" type="line"/>
+      <point x="172" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+12
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+23
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+1
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 4 values pushed */
+18 1 5 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>65ef6e1254333bbcfadf16b6718c36cdfd81d986b023ed7dfbfc19cf3bfa2908c3171478e966d61e4f73d18586525889b99481c8065ceafcf435ca6b54337303</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

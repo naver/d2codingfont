@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEE7A" format="2">
+  <advance width="1000"/>
+  <unicode hex="EE7A"/>
+  <outline>
+    <contour>
+      <point x="917" y="125" type="line"/>
+      <point x="499" y="125" type="line"/>
+      <point x="499" y="77" type="line"/>
+      <point x="885" y="77" type="line"/>
+      <point x="885" y="-94" type="line"/>
+      <point x="917" y="-94" type="line"/>
+    </contour>
+    <contour>
+      <point x="958" y="164" type="line"/>
+      <point x="958" y="-134" type="line"/>
+      <point x="844" y="-134" type="line"/>
+      <point x="844" y="38" type="line"/>
+      <point x="459" y="38" type="line"/>
+      <point x="459" y="164" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l917+125l499+125l499+77l885+77l885-94l917-94|l958+164l958-134l844-134l844+38l459+38l459+164|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

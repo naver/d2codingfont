@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3135" format="2">
+  <advance width="1000"/>
+  <unicode hex="3135"/>
+  <outline>
+    <contour>
+      <point x="594" y="443" type="qcurve"/>
+      <point x="513" y="443" type="line"/>
+      <point x="513" y="547" type="line"/>
+      <point x="618" y="547" type="line"/>
+      <point x="667" y="547"/>
+      <point x="766" y="549"/>
+      <point x="831" y="551" type="qcurve"/>
+      <point x="831" y="481"/>
+      <point x="798" y="345"/>
+      <point x="764" y="282" type="qcurve"/>
+      <point x="793" y="235"/>
+      <point x="876" y="157"/>
+      <point x="931" y="118" type="qcurve"/>
+      <point x="844" y="36" type="line"/>
+      <point x="799" y="71"/>
+      <point x="729" y="141"/>
+      <point x="700" y="183" type="qcurve"/>
+      <point x="665" y="140"/>
+      <point x="582" y="63"/>
+      <point x="531" y="29" type="qcurve"/>
+      <point x="482" y="75" type="line"/>
+      <point x="482" y="60" type="line"/>
+      <point x="165" y="60" type="line"/>
+      <point x="165" y="560" type="line"/>
+      <point x="288" y="560" type="line"/>
+      <point x="288" y="165" type="line"/>
+      <point x="482" y="165" type="line"/>
+      <point x="482" y="137" type="line"/>
+      <point x="539" y="172"/>
+      <point x="619" y="252"/>
+      <point x="671" y="333"/>
+      <point x="699" y="412"/>
+      <point x="705" y="447" type="qcurve"/>
+      <point x="677" y="445"/>
+      <point x="622" y="443"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+21
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+3
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+24
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+21
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+26 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+3
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+34 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4bcefa3b037def34dcdf707a8ba5f9c7ef8451b8be3239870a23ebc7b16dad2f3db9b1966499a0bfbc9b22e477ca3e28af795029cc535a6cc3df4a3b3bae193e</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

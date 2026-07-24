@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03880" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-198" y="-107" type="line"/>
+      <point x="-297" y="-107" type="line"/>
+      <point x="-297" y="749" type="line"/>
+      <point x="-198" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="365" type="line"/>
+      <point x="-111" y="365" type="line"/>
+      <point x="-111" y="467" type="line"/>
+      <point x="343" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="175" type="line"/>
+      <point x="-111" y="175" type="line"/>
+      <point x="-111" y="277" type="line"/>
+      <point x="343" y="277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHW[ ]	/* 4 values pushed */
+0 2 1 4
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+2
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+  PUSHW[ ]	/* 1 value pushed */
+  0
+  MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+  PUSHW[ ]	/* 2 values pushed */
+  0 3
+  MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+11 1 8 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+7 1 4 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l-198-107l-297-107l-297+749l-198+749|l343+365l-111+365l-111+467l343+467|l343+175l-111+175l-111+277l343+277|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

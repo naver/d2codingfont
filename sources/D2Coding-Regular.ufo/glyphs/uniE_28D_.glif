@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE28D" format="2">
+  <advance width="1000"/>
+  <unicode hex="E28D"/>
+  <outline>
+    <contour>
+      <point x="500" y="662" type="line"/>
+      <point x="846" y="4" type="line"/>
+      <point x="151" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="443" type="line"/>
+      <point x="673" y="114" type="line"/>
+      <point x="324" y="114" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="596" type="line"/>
+      <point x="203" y="39" type="line"/>
+      <point x="794" y="39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l500+662l846+4l151+4|l500+443l673+114l324+114|l501+596l203+39l794+39|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

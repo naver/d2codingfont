@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="500"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="288" y="748" type="line"/>
+      <point x="422" y="604" type="line"/>
+      <point x="317" y="604" type="line"/>
+      <point x="249" y="672" type="line"/>
+      <point x="181" y="604" type="line"/>
+      <point x="78" y="604" type="line"/>
+      <point x="212" y="748" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l288+748l422+604l317+604l249+672l181+604l78+604l212+748|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

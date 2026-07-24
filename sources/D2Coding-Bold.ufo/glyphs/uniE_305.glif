@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE305" format="2">
+  <advance width="1000"/>
+  <unicode hex="E305"/>
+  <outline>
+    <contour>
+      <point x="571" y="348" type="line"/>
+      <point x="504" y="348" type="line"/>
+      <point x="504" y="-85" type="line"/>
+      <point x="389" y="-85" type="line"/>
+      <point x="389" y="348" type="line"/>
+      <point x="330" y="348" type="line"/>
+      <point x="330" y="458" type="line"/>
+      <point x="389" y="458" type="line"/>
+      <point x="389" y="519" type="line"/>
+      <point x="389" y="557"/>
+      <point x="404" y="603"/>
+      <point x="421" y="623" type="qcurve"/>
+      <point x="435" y="640"/>
+      <point x="478" y="662"/>
+      <point x="508" y="662" type="qcurve"/>
+      <point x="571" y="662" type="line"/>
+      <point x="571" y="554" type="line"/>
+      <point x="553" y="554"/>
+      <point x="529" y="554"/>
+      <point x="520" y="544" type="qcurve"/>
+      <point x="509" y="535"/>
+      <point x="504" y="514"/>
+      <point x="504" y="494" type="qcurve"/>
+      <point x="504" y="458" type="line"/>
+      <point x="571" y="458" type="line"/>
+    </contour>
+    <contour>
+      <point x="847" y="-102" type="qcurve"/>
+      <point x="812" y="-102"/>
+      <point x="780" y="-59"/>
+      <point x="780" y="-33" type="qcurve"/>
+      <point x="780" y="-7"/>
+      <point x="812" y="36"/>
+      <point x="847" y="36" type="qcurve"/>
+      <point x="882" y="36"/>
+      <point x="916" y="-8"/>
+      <point x="916" y="-34" type="qcurve"/>
+      <point x="916" y="-59"/>
+      <point x="882" y="-102"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>beebc16c100fd0fad234ffd26c97afedb35d6bbc43f7cb17ea80aaf4366eb45f33712b8fb5eb1d9995b8ff681a8a2f4fca53d9589be96c928c3984985c29902f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

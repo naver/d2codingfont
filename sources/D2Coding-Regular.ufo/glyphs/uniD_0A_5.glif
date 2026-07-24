@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniD0A5" format="2">
+  <advance width="1000"/>
+  <unicode hex="D0A5"/>
+  <outline>
+    <contour>
+      <point x="504" y="666" type="qcurve"/>
+      <point x="441" y="664"/>
+      <point x="330" y="663"/>
+      <point x="269" y="663" type="qcurve"/>
+      <point x="157" y="663" type="line"/>
+      <point x="157" y="737" type="line"/>
+      <point x="330" y="737" type="line"/>
+      <point x="402" y="737"/>
+      <point x="533" y="737"/>
+      <point x="605" y="739" type="qcurve"/>
+      <point x="599" y="654"/>
+      <point x="528" y="503"/>
+      <point x="408" y="377"/>
+      <point x="245" y="281"/>
+      <point x="148" y="251" type="qcurve"/>
+      <point x="96" y="314" type="line"/>
+      <point x="199" y="343"/>
+      <point x="362" y="435"/>
+      <point x="417" y="496" type="qcurve"/>
+      <point x="374" y="491"/>
+      <point x="279" y="488"/>
+      <point x="230" y="487" type="qcurve"/>
+      <point x="143" y="487" type="line"/>
+      <point x="143" y="556" type="line"/>
+      <point x="266" y="556" type="line"/>
+      <point x="320" y="556"/>
+      <point x="419" y="561"/>
+      <point x="467" y="567" type="qcurve"/>
+      <point x="480" y="590"/>
+      <point x="499" y="640"/>
+    </contour>
+    <contour>
+      <point x="749" y="780" type="line"/>
+      <point x="835" y="780" type="line"/>
+      <point x="835" y="243" type="line"/>
+      <point x="749" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="749" y="-136" type="line"/>
+      <point x="749" y="117" type="line"/>
+      <point x="245" y="117" type="line"/>
+      <point x="245" y="191" type="line"/>
+      <point x="835" y="191" type="line"/>
+      <point x="835" y="-136" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+30
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+35
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+9 2
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+30
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+31 2
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+35
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+38 2
+MIRP[10100]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+4
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+22
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+37
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+  PUSHW[ ]	/* 1 value pushed */
+  30
+  MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+  PUSHW[ ]	/* 2 values pushed */
+  30 5
+  MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+NPUSHW[ ]	/* 3 values pushed */
+47 4 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+4
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+5 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+22
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+23 1
+MIRP[10100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 3 values pushed */
+47 30 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+121 30 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+96 30 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+99 37 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+176 37 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+37
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+36 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>6e3d40e1a83c3d7afbd4c7ca751f2356c1a7a2c4c003aff03a514add68ba68e9b299c71d8c0567b796812f7c02b441a293d25d3e4a90506dcf7542fa3e99f6cf</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

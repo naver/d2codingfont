@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03905" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-10" y="246" type="line"/>
+      <point x="-48" y="179" type="line"/>
+      <point x="-224" y="298" type="line"/>
+      <point x="-210" y="62" type="line"/>
+      <point x="-287" y="62" type="line"/>
+      <point x="-275" y="297" type="line"/>
+      <point x="-452" y="178" type="line"/>
+      <point x="-488" y="245" type="line"/>
+      <point x="-300" y="351" type="line"/>
+      <point x="-489" y="459" type="line"/>
+      <point x="-447" y="525" type="line"/>
+      <point x="-275" y="405" type="line"/>
+      <point x="-287" y="640" type="line"/>
+      <point x="-210" y="640" type="line"/>
+      <point x="-224" y="404" type="line"/>
+      <point x="-50" y="525" type="line"/>
+      <point x="-10" y="456" type="line"/>
+      <point x="-197" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="-481" y="16" type="line"/>
+      <point x="-557" y="16" type="line"/>
+      <point x="-825" y="323" type="line"/>
+      <point x="-563" y="632" type="line"/>
+      <point x="-489" y="632" type="line"/>
+      <point x="-489" y="620" type="line"/>
+      <point x="-737" y="324" type="line"/>
+      <point x="-481" y="28" type="line"/>
+    </contour>
+    <contour>
+      <point x="-18" y="28" type="line"/>
+      <point x="238" y="324" type="line"/>
+      <point x="-10" y="620" type="line"/>
+      <point x="-10" y="632" type="line"/>
+      <point x="64" y="632" type="line"/>
+      <point x="326" y="323" type="line"/>
+      <point x="58" y="16" type="line"/>
+      <point x="-18" y="16" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+12
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+18
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+32
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+2 18 12
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+5 18 12
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+8 18 12
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+11 18 12
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+14 18 12
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+17 18 12
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>010e53663aa180e18aa69ad98d7129ddf4a34f2e7f61504dec1dcc381986ec170b4f11be63fb722146078f319a05765bf270ecd0961f953b2da7b097b59e8ca3</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

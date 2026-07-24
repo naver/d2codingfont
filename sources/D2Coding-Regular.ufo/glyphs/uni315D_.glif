@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni315D" format="2">
+  <advance width="1000"/>
+  <unicode hex="315D"/>
+  <outline>
+    <contour>
+      <point x="775" y="76" type="line"/>
+      <point x="547" y="76" type="line"/>
+      <point x="547" y="151" type="line"/>
+      <point x="775" y="151" type="line"/>
+      <point x="775" y="760" type="line"/>
+      <point x="859" y="760" type="line"/>
+      <point x="859" y="-153" type="line"/>
+      <point x="775" y="-153" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="-133" type="line"/>
+      <point x="323" y="-133" type="line"/>
+      <point x="323" y="283" type="line"/>
+      <point x="90" y="283" type="line"/>
+      <point x="90" y="358" type="line"/>
+      <point x="268" y="358" type="line"/>
+      <point x="318" y="358"/>
+      <point x="438" y="361"/>
+      <point x="561" y="368"/>
+      <point x="678" y="378"/>
+      <point x="726" y="384" type="qcurve"/>
+      <point x="726" y="311" type="line"/>
+      <point x="660" y="302"/>
+      <point x="494" y="289"/>
+      <point x="411" y="286" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+21
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 2 values pushed */
+15 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>19bfab299689326219c28782d6182c985f9435e2f06b3238d0753797255405488e73e56d1309f3f3a2ea909e90329c80ed210b96aedb889be442678455efa023</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

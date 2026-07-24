@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03811" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="250" y="882" type="qcurve"/>
+      <point x="280" y="882"/>
+      <point x="323" y="839"/>
+      <point x="323" y="809" type="qcurve"/>
+      <point x="323" y="779"/>
+      <point x="280" y="736"/>
+      <point x="250" y="736" type="qcurve"/>
+      <point x="218" y="736"/>
+      <point x="177" y="779"/>
+      <point x="177" y="809" type="qcurve"/>
+      <point x="177" y="839"/>
+      <point x="218" y="882"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHW[ ]	/* 4 values pushed */
+3 2 9 4
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+0 1 6 4
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500q250+882o280+882o323+839q323+809o323+779o280+736q250+736o218+736o177+779q177+809o177+839o218+882|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

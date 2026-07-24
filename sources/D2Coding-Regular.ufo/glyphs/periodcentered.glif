@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered" format="2">
+  <advance width="500"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="172" y="298" type="qcurve"/>
+      <point x="172" y="330"/>
+      <point x="218" y="376"/>
+      <point x="250" y="376" type="qcurve"/>
+      <point x="282" y="376"/>
+      <point x="328" y="330"/>
+      <point x="328" y="298" type="qcurve"/>
+      <point x="328" y="266"/>
+      <point x="282" y="220"/>
+      <point x="250" y="220" type="qcurve"/>
+      <point x="218" y="220"/>
+      <point x="172" y="266"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+3
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 5 values pushed */
+159 3 175 3 2
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+142 3 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+9
+MDRP[11100]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500q172+298o172+330o218+376q250+376o282+376o328+330q328+298o328+266o282+220q250+220o218+220o172+266|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

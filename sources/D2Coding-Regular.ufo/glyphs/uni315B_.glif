@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni315B" format="2">
+  <advance width="1000"/>
+  <unicode hex="315B"/>
+  <outline>
+    <contour>
+      <point x="392" y="540" type="line"/>
+      <point x="392" y="163" type="line"/>
+      <point x="602" y="163" type="line"/>
+      <point x="602" y="540" type="line"/>
+      <point x="692" y="540" type="line"/>
+      <point x="692" y="163" type="line"/>
+      <point x="925" y="163" type="line"/>
+      <point x="925" y="90" type="line"/>
+      <point x="75" y="90" type="line"/>
+      <point x="75" y="163" type="line"/>
+      <point x="302" y="163" type="line"/>
+      <point x="302" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+8
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 2 values pushed */
+9 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l392+540l392+163l602+163l602+540l692+540l692+163l925+163l925+90l75+90l75+163l302+163l302+540|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

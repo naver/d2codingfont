@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03837" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-354" y="361" type="line"/>
+      <point x="-37" y="361" type="line"/>
+      <point x="-37" y="286" type="line"/>
+      <point x="-354" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="361" type="line"/>
+      <point x="354" y="361" type="line"/>
+      <point x="354" y="286" type="line"/>
+      <point x="37" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+1 1 2 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+1
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+4
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+2
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l-354+361l-37+361l-37+286l-354+286|l37+361l354+361l354+286l37+286|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

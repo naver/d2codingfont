@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2178" format="2">
+  <advance width="500"/>
+  <unicode hex="2178"/>
+  <outline>
+    <contour>
+      <point x="139" y="633" type="line"/>
+      <point x="61" y="633" type="line"/>
+      <point x="61" y="726" type="line"/>
+      <point x="139" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="64" y="526" type="line"/>
+      <point x="138" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="492" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="164" y="526" type="line"/>
+      <point x="242" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="526" type="line"/>
+      <point x="492" y="526" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l139+633l61+633l61+726l139+726|l138+0l64+0l64+526l138+526|l492+0l414+0l164+526l242+526|l414+526l492+526l242+0l164+0|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

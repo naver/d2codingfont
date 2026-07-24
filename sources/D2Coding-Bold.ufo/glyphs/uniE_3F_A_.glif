@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE3FA" format="2">
+  <advance width="1000"/>
+  <unicode hex="E3FA"/>
+  <outline>
+    <contour>
+      <point x="418" y="809" type="line"/>
+      <point x="581" y="809" type="line"/>
+      <point x="581" y="99" type="line"/>
+      <point x="740" y="242" type="line"/>
+      <point x="842" y="113" type="line"/>
+      <point x="500" y="-209" type="line"/>
+      <point x="155" y="113" type="line"/>
+      <point x="260" y="242" type="line"/>
+      <point x="418" y="99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l418+809l581+809l581+99l740+242l842+113l500-209l155+113l260+242l418+99|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

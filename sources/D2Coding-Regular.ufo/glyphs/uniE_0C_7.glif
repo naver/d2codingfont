@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE0C7" format="2">
+  <advance width="1000"/>
+  <unicode hex="E0C7"/>
+  <outline>
+    <contour>
+      <point x="406" y="647" type="line"/>
+      <point x="665" y="301" type="line"/>
+      <point x="406" y="-46" type="line"/>
+      <point x="336" y="-46" type="line"/>
+      <point x="593" y="301" type="line"/>
+      <point x="335" y="647" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l406+647l665+301l406-46l336-46l593+301l335+647|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

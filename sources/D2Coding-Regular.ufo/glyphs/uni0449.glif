@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0449" format="2">
+  <advance width="500"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="36" y="526" type="line"/>
+      <point x="116" y="526" type="line"/>
+      <point x="116" y="85" type="line"/>
+      <point x="209" y="85" type="line"/>
+      <point x="209" y="526" type="line"/>
+      <point x="291" y="526" type="line"/>
+      <point x="291" y="85" type="line"/>
+      <point x="383" y="85" type="line"/>
+      <point x="383" y="526" type="line"/>
+      <point x="464" y="526" type="line"/>
+      <point x="464" y="16" type="line"/>
+      <point x="36" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="85" type="line"/>
+      <point x="500" y="-119" type="line"/>
+      <point x="429" y="-119" type="line"/>
+      <point x="429" y="85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l36+526l116+526l116+85l209+85l209+526l291+526l291+85l383+85l383+526l464+526l464+16l36+16|l500+85l500-119l429-119l429+85|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

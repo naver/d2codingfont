@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03882" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="386" y="467" type="line"/>
+      <point x="386" y="365" type="line"/>
+      <point x="-69" y="365" type="line"/>
+      <point x="-209" y="659" type="line"/>
+      <point x="-312" y="442" type="line"/>
+      <point x="-421" y="442" type="line"/>
+      <point x="-248" y="785" type="line"/>
+      <point x="-168" y="785" type="line"/>
+      <point x="-7" y="467" type="line"/>
+    </contour>
+    <contour>
+      <point x="-74" y="277" type="line"/>
+      <point x="386" y="277" type="line"/>
+      <point x="386" y="175" type="line"/>
+      <point x="-74" y="175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+  PUSHW[ ]	/* 1 value pushed */
+  6
+  MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+  PUSHW[ ]	/* 2 values pushed */
+  6 5
+  MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 4 values pushed */
+10 1 11 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+0 1 1 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+5 1 0
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l386+467l386+365l-69+365l-209+659l-312+442l-421+442l-248+785l-168+785l-7+467|l-74+277l386+277l386+175l-74+175|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

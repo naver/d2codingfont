@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anoteleia" format="2">
+  <advance width="500"/>
+  <unicode hex="0387"/>
+  <outline>
+    <contour>
+      <point x="250" y="419" type="qcurve"/>
+      <point x="277" y="419"/>
+      <point x="315" y="381"/>
+      <point x="315" y="354" type="qcurve"/>
+      <point x="315" y="327"/>
+      <point x="277" y="289"/>
+      <point x="250" y="289" type="qcurve"/>
+      <point x="222" y="289"/>
+      <point x="185" y="327"/>
+      <point x="185" y="354" type="qcurve"/>
+      <point x="185" y="381"/>
+      <point x="222" y="419"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 2 values pushed */
+6 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500q250+419o277+419o315+381q315+354o315+327o277+289q250+289o222+289o185+327q185+354o185+381o222+419|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

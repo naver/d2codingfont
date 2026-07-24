@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21F2" format="2">
+  <advance width="500"/>
+  <unicode hex="21F2"/>
+  <outline>
+    <contour>
+      <point x="384" y="178" type="line"/>
+      <point x="189" y="178" type="line"/>
+      <point x="189" y="237" type="line"/>
+      <point x="297" y="237" type="line"/>
+      <point x="3" y="530" type="line"/>
+      <point x="60" y="582" type="line"/>
+      <point x="351" y="292" type="line"/>
+      <point x="351" y="398" type="line"/>
+      <point x="410" y="398" type="line"/>
+      <point x="410" y="204" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="582" type="line"/>
+      <point x="498" y="90" type="line"/>
+      <point x="3" y="90" type="line"/>
+      <point x="3" y="125" type="line"/>
+      <point x="463" y="125" type="line"/>
+      <point x="463" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l384+178l189+178l189+237l297+237l3+530l60+582l351+292l351+398l410+398l410+204|l498+582l498+90l3+90l3+125l463+125l463+582|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

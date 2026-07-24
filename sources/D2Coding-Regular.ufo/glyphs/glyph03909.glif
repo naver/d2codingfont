@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03909" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-212" y="-92" type="line"/>
+      <point x="-289" y="-92" type="line"/>
+      <point x="-289" y="734" type="line"/>
+      <point x="-212" y="734" type="line"/>
+    </contour>
+    <contour>
+      <point x="-378" y="562" type="line"/>
+      <point x="-700" y="323" type="line"/>
+      <point x="-378" y="84" type="line"/>
+      <point x="-378" y="-6" type="line"/>
+      <point x="-760" y="280" type="line"/>
+      <point x="-760" y="367" type="line"/>
+      <point x="-378" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="366" type="line"/>
+      <point x="261" y="280" type="line"/>
+      <point x="-123" y="-7" type="line"/>
+      <point x="-123" y="83" type="line"/>
+      <point x="201" y="323" type="line"/>
+      <point x="-123" y="562" type="line"/>
+      <point x="-123" y="651" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHW[ ]	/* 4 values pushed */
+0 2 1 4
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+2
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+5 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+7 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+10 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+13 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+15 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+17 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>e5b4f6ddc6aba9449681a6e0ac3fe36ec46e5d0c34a542d7f98b5d6d731ed596ca143479d74bace4bed4c1320a75c6e7372ff210eaec01dea1ced4efc6b99716</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

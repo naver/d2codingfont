@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni051C" format="2">
+  <advance width="500"/>
+  <unicode hex="051C"/>
+  <outline>
+    <contour>
+      <point x="292" y="546" type="line"/>
+      <point x="367" y="156" type="line"/>
+      <point x="370" y="234" type="line"/>
+      <point x="408" y="694" type="line"/>
+      <point x="498" y="694" type="line"/>
+      <point x="429" y="16" type="line"/>
+      <point x="336" y="16" type="line"/>
+      <point x="255" y="406" type="line"/>
+      <point x="249" y="439" type="line"/>
+      <point x="245" y="406" type="line"/>
+      <point x="162" y="16" type="line"/>
+      <point x="72" y="16" type="line"/>
+      <point x="2" y="694" type="line"/>
+      <point x="93" y="694" type="line"/>
+      <point x="128" y="234" type="line"/>
+      <point x="131" y="156" type="line"/>
+      <point x="207" y="546" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+12
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+3
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+11
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+63 3 1
+DELTAP2[ ]	/* DeltaExceptionP2 */
+NPUSHW[ ]	/* 3 values pushed */
+15 3 1
+DELTAP2[ ]	/* DeltaExceptionP2 */
+PUSHW[ ]	/* 1 value pushed */
+3
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+4
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+6
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+5
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+11
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDRP[10000]	/* MoveDirectRelPt */
+NPUSHW[ ]	/* 3 values pushed */
+15 12 1
+DELTAP2[ ]	/* DeltaExceptionP2 */
+NPUSHW[ ]	/* 3 values pushed */
+63 12 1
+DELTAP2[ ]	/* DeltaExceptionP2 */
+PUSHW[ ]	/* 1 value pushed */
+12
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+13
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>39f751407f88cb6d9b355f6168d0f9f6a977667379981d2a7646ce1794cbc0de02e16d44f1ccaa4a8140928531a1cdb65d08f12d4d0c5b9c509499bbc3c99a34</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2353" format="2">
+  <advance width="500"/>
+  <unicode hex="2353"/>
+  <outline>
+    <contour>
+      <point x="49" y="3" type="line"/>
+      <point x="451" y="3" type="line"/>
+      <point x="451" y="116" type="line"/>
+      <point x="250" y="561" type="line"/>
+      <point x="49" y="115" type="line"/>
+    </contour>
+    <contour>
+      <point x="497" y="-43" type="line"/>
+      <point x="2" y="-43" type="line"/>
+      <point x="2" y="728" type="line"/>
+      <point x="497" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="277" type="line"/>
+      <point x="217" y="645" type="line"/>
+      <point x="284" y="645" type="line"/>
+      <point x="451" y="277" type="line"/>
+      <point x="451" y="682" type="line"/>
+      <point x="49" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l49+3l451+3l451+116l250+561l49+115|l497-43l2-43l2+728l497+728|l49+277l217+645l284+645l451+277l451+682l49+682|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

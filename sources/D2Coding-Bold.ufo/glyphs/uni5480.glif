@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5480" format="2">
+  <advance width="1000"/>
+  <unicode hex="5480"/>
+  <outline>
+    <contour>
+      <point x="831" y="750" type="line"/>
+      <point x="831" y="11" type="line"/>
+      <point x="923" y="11" type="line"/>
+      <point x="923" y="-85" type="line"/>
+      <point x="279" y="-85" type="line"/>
+      <point x="279" y="11" type="line"/>
+      <point x="437" y="11" type="line"/>
+      <point x="437" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="720" y="651" type="line"/>
+      <point x="547" y="651" type="line"/>
+      <point x="547" y="505" type="line"/>
+      <point x="720" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="720" y="407" type="line"/>
+      <point x="547" y="407" type="line"/>
+      <point x="547" y="253" type="line"/>
+      <point x="720" y="253" type="line"/>
+    </contour>
+    <contour>
+      <point x="720" y="160" type="line"/>
+      <point x="547" y="160" type="line"/>
+      <point x="547" y="11" type="line"/>
+      <point x="720" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="607" type="line"/>
+      <point x="227" y="607" type="line"/>
+      <point x="227" y="287" type="line"/>
+      <point x="287" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="708" type="line"/>
+      <point x="397" y="135" type="line"/>
+      <point x="287" y="135" type="line"/>
+      <point x="287" y="189" type="line"/>
+      <point x="227" y="189" type="line"/>
+      <point x="227" y="92" type="line"/>
+      <point x="117" y="92" type="line"/>
+      <point x="117" y="708" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>74c3c1d87eaaa60c7c7e174d755a35f30ac3ddfe0ceb5cd19b1af5c637c23de0c13cbd4020337fd3b1b38c7bfc2cc76e0f0156b8a9e5358c86a7f674e290d23b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

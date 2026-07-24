@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotereversed" format="2">
+  <advance width="500"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="290" y="631" type="line"/>
+      <point x="290" y="547" type="line"/>
+      <point x="330" y="392" type="line"/>
+      <point x="267" y="392" type="line"/>
+      <point x="188" y="547" type="line"/>
+      <point x="188" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l290+631l290+547l330+392l267+392l188+547l188+631|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

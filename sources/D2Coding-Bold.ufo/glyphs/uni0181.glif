@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0181" format="2">
+  <advance width="500"/>
+  <unicode hex="0181"/>
+  <outline>
+    <contour>
+      <point x="70" y="16" type="line"/>
+      <point x="70" y="608" type="line"/>
+      <point x="54" y="607"/>
+      <point x="32" y="601"/>
+      <point x="18" y="586"/>
+      <point x="11" y="560"/>
+      <point x="11" y="539" type="qcurve"/>
+      <point x="-67" y="539" type="line"/>
+      <point x="-67" y="583"/>
+      <point x="-56" y="642"/>
+      <point x="-26" y="677"/>
+      <point x="27" y="693"/>
+      <point x="70" y="694" type="qcurve"/>
+      <point x="281" y="694" type="line"/>
+      <point x="317" y="694"/>
+      <point x="386" y="672"/>
+      <point x="440" y="630"/>
+      <point x="473" y="568"/>
+      <point x="473" y="528" type="qcurve"/>
+      <point x="473" y="472"/>
+      <point x="418" y="401"/>
+      <point x="380" y="383" type="qcurve"/>
+      <point x="432" y="366"/>
+      <point x="497" y="280"/>
+      <point x="497" y="209" type="qcurve"/>
+      <point x="497" y="163"/>
+      <point x="465" y="91"/>
+      <point x="408" y="42"/>
+      <point x="328" y="16"/>
+      <point x="280" y="16" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="181" y="333" type="line"/>
+      <point x="181" y="110" type="line"/>
+      <point x="266" y="110" type="line"/>
+      <point x="318" y="110"/>
+      <point x="379" y="157"/>
+      <point x="379" y="217" type="qcurve"/>
+      <point x="379" y="253"/>
+      <point x="363" y="299"/>
+      <point x="332" y="324"/>
+      <point x="286" y="333"/>
+      <point x="256" y="333" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="181" y="600" type="line"/>
+      <point x="181" y="424" type="line"/>
+      <point x="252" y="424" type="line"/>
+      <point x="274" y="424"/>
+      <point x="313" y="430"/>
+      <point x="342" y="450"/>
+      <point x="358" y="487"/>
+      <point x="358" y="518" type="qcurve"/>
+      <point x="358" y="562"/>
+      <point x="309" y="600"/>
+      <point x="264" y="600" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+NPUSHW[ ]	/* 3 values pushed */
+88 32 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+32
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+7
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+13
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+43
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+12
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+157 12 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+108 12 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 2 values pushed */
+1 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+7
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDRP[10000]	/* MoveDirectRelPt */
+NPUSHW[ ]	/* 3 values pushed */
+157 13 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+108 13 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 15 values pushed */
+80 32 96 32 112 32 128 32 144 32 160 32 176 32 7
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+32
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+29 1
+MIRP[10100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 3 values pushed */
+144 43 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+112 43 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+64 43 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+43
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+40 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+13
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+51 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>bdc1bfad8f02e15490fc2423ee635713734b3428de48eb939d30948d1c746332abf1ad463e45e18e29fc1a81d8a2eb3907924e7975b0b68f3e1aa5a9d1790a57</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

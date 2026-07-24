@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph16162" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="814" y="283" type="line"/>
+      <point x="814" y="188" type="line"/>
+      <point x="770" y="188" type="line"/>
+      <point x="768" y="-38" type="line"/>
+      <point x="822" y="-38" type="line"/>
+      <point x="822" y="-131" type="line"/>
+      <point x="485" y="-131" type="line"/>
+      <point x="485" y="-38" type="line"/>
+      <point x="532" y="-38" type="line"/>
+      <point x="532" y="190" type="line"/>
+      <point x="485" y="190" type="line"/>
+      <point x="485" y="283" type="line"/>
+    </contour>
+    <contour>
+      <point x="675" y="191" type="line"/>
+      <point x="628" y="191" type="line"/>
+      <point x="628" y="-39" type="line"/>
+      <point x="673" y="-39" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="-36" type="line"/>
+      <point x="351" y="-36"/>
+      <point x="426" y="-28"/>
+      <point x="464" y="-14" type="qcurve"/>
+      <point x="464" y="-109" type="line"/>
+      <point x="425" y="-121"/>
+      <point x="334" y="-131"/>
+      <point x="277" y="-131" type="qcurve"/>
+      <point x="145" y="-131" type="line"/>
+      <point x="145" y="121" type="line"/>
+      <point x="335" y="121" type="line"/>
+      <point x="335" y="188" type="line"/>
+      <point x="145" y="188" type="line"/>
+      <point x="145" y="283" type="line"/>
+      <point x="449" y="283" type="line"/>
+      <point x="449" y="32" type="line"/>
+      <point x="262" y="32" type="line"/>
+      <point x="262" y="-36" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>867fe6f3e7348cd2c4626dd2eb4a7f6663fbb306869882a6b8c35ada135afa33d1a7864c8583c722ac13f1e626427a33633941db7054b71fa4c7399049c437ff</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

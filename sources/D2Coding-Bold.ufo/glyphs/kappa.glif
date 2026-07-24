@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kappa" format="2">
+  <advance width="500"/>
+  <unicode hex="03BA"/>
+  <outline>
+    <contour>
+      <point x="285" y="321" type="line"/>
+      <point x="500" y="16" type="line"/>
+      <point x="367" y="16" type="line"/>
+      <point x="211" y="248" type="line"/>
+      <point x="174" y="208" type="line"/>
+      <point x="174" y="16" type="line"/>
+      <point x="66" y="16" type="line"/>
+      <point x="66" y="526" type="line"/>
+      <point x="174" y="526" type="line"/>
+      <point x="174" y="345" type="line"/>
+      <point x="342" y="526" type="line"/>
+      <point x="477" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l285+321l500+16l367+16l211+248l174+208l174+16l66+16l66+526l174+526l174+345l342+526l477+526|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

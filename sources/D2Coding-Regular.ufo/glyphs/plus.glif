@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus" format="2">
+  <advance width="500"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="213" y="341" type="line"/>
+      <point x="213" y="537" type="line"/>
+      <point x="287" y="537" type="line"/>
+      <point x="287" y="341" type="line"/>
+      <point x="467" y="341" type="line"/>
+      <point x="467" y="269" type="line"/>
+      <point x="287" y="269" type="line"/>
+      <point x="287" y="66" type="line"/>
+      <point x="213" y="66" type="line"/>
+      <point x="213" y="269" type="line"/>
+      <point x="33" y="269" type="line"/>
+      <point x="33" y="341" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+31 0 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+127 0 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+79 0 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 2 values pushed */
+6 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l213+341l213+537l287+537l287+341l467+341l467+269l287+269l287+66l213+66l213+269l33+269l33+341|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

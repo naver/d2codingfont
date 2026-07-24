@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03838" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-434" y="375" type="line"/>
+      <point x="-72" y="375" type="line"/>
+      <point x="-72" y="283" type="line"/>
+      <point x="-434" y="283" type="line"/>
+    </contour>
+    <contour>
+      <point x="-8" y="375" type="line"/>
+      <point x="354" y="375" type="line"/>
+      <point x="354" y="283" type="line"/>
+      <point x="-8" y="283" type="line"/>
+    </contour>
+    <contour>
+      <point x="-854" y="375" type="line"/>
+      <point x="-492" y="375" type="line"/>
+      <point x="-492" y="283" type="line"/>
+      <point x="-854" y="283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+1 1 2 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+1
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+4
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+2
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+1
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+8
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+2
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l-434+375l-72+375l-72+283l-434+283|l-8+375l354+375l354+283l-8+283|l-854+375l-492+375l-492+283l-854+283|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

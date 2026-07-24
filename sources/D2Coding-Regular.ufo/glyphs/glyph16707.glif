@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph16707" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="182" y="-121" type="line"/>
+      <point x="182" y="213" type="line"/>
+      <point x="269" y="213" type="line"/>
+      <point x="269" y="-47" type="line"/>
+      <point x="305" y="-47" type="line"/>
+      <point x="346" y="-47"/>
+      <point x="439" y="-38"/>
+      <point x="477" y="-30" type="qcurve"/>
+      <point x="477" y="-103" type="line"/>
+      <point x="427" y="-113"/>
+      <point x="323" y="-121"/>
+      <point x="267" y="-121" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="468" y="83" type="line"/>
+      <point x="468" y="144" type="line"/>
+      <point x="848" y="144" type="line"/>
+      <point x="848" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="179" type="line"/>
+      <point x="548" y="243" type="line"/>
+      <point x="764" y="243" type="line"/>
+      <point x="764" y="179" type="line"/>
+    </contour>
+    <contour>
+      <point x="657" y="62" type="qcurve"/>
+      <point x="732" y="62"/>
+      <point x="816" y="4"/>
+      <point x="816" y="-39" type="qcurve"/>
+      <point x="816" y="-89"/>
+      <point x="728" y="-143"/>
+      <point x="657" y="-143" type="qcurve"/>
+      <point x="586" y="-143"/>
+      <point x="499" y="-89"/>
+      <point x="499" y="-39" type="qcurve"/>
+      <point x="499" y="4"/>
+      <point x="582" y="62"/>
+    </contour>
+    <contour>
+      <point x="656" y="6" type="qcurve"/>
+      <point x="618" y="6"/>
+      <point x="578" y="-19"/>
+      <point x="578" y="-40" type="qcurve"/>
+      <point x="578" y="-62"/>
+      <point x="620" y="-87"/>
+      <point x="656" y="-87" type="qcurve"/>
+      <point x="693" y="-87"/>
+      <point x="737" y="-62"/>
+      <point x="737" y="-40" type="qcurve"/>
+      <point x="737" y="-19"/>
+      <point x="695" y="6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>110a1cecf825696963a832f8bf0620b8dfa3624619cead9e9b63ca9231be9c05950a27b4d778d5b04036de5b847d11834a03c9a19e9e8bf47ac49bc58ee84e72</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

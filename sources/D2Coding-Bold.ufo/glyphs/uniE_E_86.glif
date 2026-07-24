@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniEE86" format="2">
+  <advance width="1000"/>
+  <unicode hex="EE86"/>
+  <outline>
+    <contour>
+      <point x="499" y="540" type="line"/>
+      <point x="185" y="7" type="line"/>
+      <point x="147" y="37" type="line"/>
+      <point x="500" y="637" type="line"/>
+      <point x="852" y="35" type="line"/>
+      <point x="808" y="15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l499+540l185+7l147+37l500+637l852+35l808+15|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="section" format="2">
+  <advance width="500"/>
+  <unicode hex="00A7"/>
+  <outline>
+    <contour>
+      <point x="409" y="602" type="line"/>
+      <point x="397" y="602" type="line"/>
+      <point x="362" y="619"/>
+      <point x="287" y="635"/>
+      <point x="258" y="635" type="qcurve"/>
+      <point x="160" y="635"/>
+      <point x="160" y="578" type="qcurve"/>
+      <point x="160" y="552"/>
+      <point x="184" y="533" type="qcurve"/>
+      <point x="210" y="512"/>
+      <point x="280" y="484" type="qcurve"/>
+      <point x="358" y="453"/>
+      <point x="429" y="378"/>
+      <point x="429" y="323" type="qcurve"/>
+      <point x="429" y="235"/>
+      <point x="358" y="191" type="qcurve"/>
+      <point x="429" y="152"/>
+      <point x="429" y="81" type="qcurve"/>
+      <point x="429" y="14"/>
+      <point x="322" y="-67"/>
+      <point x="225" y="-67" type="qcurve"/>
+      <point x="174" y="-67"/>
+      <point x="96" y="-49"/>
+      <point x="67" y="-33" type="qcurve"/>
+      <point x="67" y="42" type="line"/>
+      <point x="79" y="42" type="line"/>
+      <point x="117" y="22"/>
+      <point x="191" y="4"/>
+      <point x="225" y="4" type="qcurve"/>
+      <point x="342" y="4"/>
+      <point x="342" y="73" type="qcurve"/>
+      <point x="342" y="100"/>
+      <point x="321" y="120" type="qcurve"/>
+      <point x="299" y="140"/>
+      <point x="226" y="170" type="qcurve"/>
+      <point x="131" y="210"/>
+      <point x="102" y="247" type="qcurve"/>
+      <point x="75" y="284"/>
+      <point x="75" y="335" type="qcurve"/>
+      <point x="75" y="422"/>
+      <point x="153" y="461" type="qcurve"/>
+      <point x="75" y="500"/>
+      <point x="75" y="576" type="qcurve"/>
+      <point x="75" y="636"/>
+      <point x="176" y="705"/>
+      <point x="261" y="705" type="qcurve"/>
+      <point x="296" y="705"/>
+      <point x="373" y="692"/>
+      <point x="409" y="678" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="296" y="220" type="line"/>
+      <point x="352" y="258"/>
+      <point x="352" y="310" type="qcurve"/>
+      <point x="352" y="354"/>
+      <point x="280" y="408"/>
+      <point x="215" y="431" type="qcurve"/>
+      <point x="150" y="408"/>
+      <point x="150" y="346" type="qcurve"/>
+      <point x="150" y="328"/>
+      <point x="162" y="298"/>
+      <point x="192" y="270"/>
+      <point x="242" y="242"/>
+      <point x="279" y="227" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+45
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+61
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+28
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+45
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+4 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+28
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+20 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+61
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+34 1
+MIRP[10100]	/* MoveIndirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+10
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+53 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>492b7f3476685952325af4fdfd55c308b445bc518033ab305717ef9c5fa299e944110cb04617c8c9bdd5a7e536377f997b05b2f1020d6314efc54d72f8a02362</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

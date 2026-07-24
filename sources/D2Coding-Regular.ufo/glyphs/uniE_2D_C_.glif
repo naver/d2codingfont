@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE2DC" format="2">
+  <advance width="1000"/>
+  <unicode hex="F841"/>
+  <unicode hex="E2DC"/>
+  <outline>
+    <contour>
+      <point x="227" y="277" type="line"/>
+      <point x="310" y="103" type="line"/>
+      <point x="79" y="297" type="line"/>
+      <point x="312" y="493" type="line"/>
+      <point x="227" y="325" type="line"/>
+      <point x="531" y="325" type="line"/>
+      <point x="531" y="661" type="line"/>
+      <point x="378" y="571" type="line"/>
+      <point x="552" y="829" type="line"/>
+      <point x="728" y="570" type="line"/>
+      <point x="577" y="661" type="line"/>
+      <point x="577" y="325" type="line"/>
+      <point x="877" y="325" type="line"/>
+      <point x="795" y="494" type="line"/>
+      <point x="1028" y="302" type="line"/>
+      <point x="795" y="105" type="line"/>
+      <point x="877" y="277" type="line"/>
+      <point x="577" y="277" type="line"/>
+      <point x="577" y="-62" type="line"/>
+      <point x="729" y="28" type="line"/>
+      <point x="556" y="-227" type="line"/>
+      <point x="378" y="29" type="line"/>
+      <point x="531" y="-62" type="line"/>
+      <point x="531" y="277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>8553d3b926aa41f089010030f640f28e0fd768272bbc86ad1ef22bc9eedbbe4db4e8b98f35a37a4b164aa1969bfad8e484c78a4e88f4ec9bccc6318e00846e2f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

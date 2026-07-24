@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glyph03877" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="-1005" y="-94" type="line"/>
+      <point x="-1105" y="-94" type="line"/>
+      <point x="-1105" y="737" type="line"/>
+      <point x="-1005" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="-621" y="-94" type="line"/>
+      <point x="-721" y="-94" type="line"/>
+      <point x="-721" y="737" type="line"/>
+      <point x="-621" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="374" type="line"/>
+      <point x="220" y="272" type="line"/>
+      <point x="-271" y="-94" type="line"/>
+      <point x="-355" y="-94" type="line"/>
+      <point x="-355" y="737" type="line"/>
+      <point x="-271" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="323" type="line"/>
+      <point x="-254" y="602" type="line"/>
+      <point x="-254" y="42" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+PUSHW[ ]	/* 4 values pushed */
+0 2 1 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+4 2 5 4
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+16 2 11 4
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+2
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+6
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+12
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+4
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+10
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+14 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+15 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+PUSHW[ ]	/* 3 values pushed */
+16 0 2
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>c2158f5ffc6f11b9f50ce063332cce41f9253415ff9ad04bed52329c2db25ea9b06ee70f68f6d3d45b39e4159c71b50671aab6fddfacf1d19558857987e21592</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

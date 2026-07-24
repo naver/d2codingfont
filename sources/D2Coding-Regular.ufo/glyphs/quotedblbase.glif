@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="500"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="311" y="123" type="line"/>
+      <point x="413" y="123" type="line"/>
+      <point x="413" y="39" type="line"/>
+      <point x="334" y="-116" type="line"/>
+      <point x="271" y="-116" type="line"/>
+      <point x="311" y="39" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="123" type="line"/>
+      <point x="227" y="123" type="line"/>
+      <point x="227" y="39" type="line"/>
+      <point x="148" y="-116" type="line"/>
+      <point x="85" y="-116" type="line"/>
+      <point x="125" y="39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l311+123l413+123l413+39l334-116l271-116l311+39|l125+123l227+123l227+39l148-116l85-116l125+39|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

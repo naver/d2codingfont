@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SF390000" format="2">
+  <advance width="500"/>
+  <unicode hex="2554"/>
+  <outline>
+    <contour>
+      <point x="153" y="-201" type="line"/>
+      <point x="153" y="390" type="line"/>
+      <point x="508" y="390" type="line"/>
+      <point x="508" y="321" type="line"/>
+      <point x="217" y="321" type="line"/>
+      <point x="217" y="-201" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="-201" type="line"/>
+      <point x="282" y="251" type="line"/>
+      <point x="508" y="251" type="line"/>
+      <point x="508" y="181" type="line"/>
+      <point x="347" y="181" type="line"/>
+      <point x="347" y="-201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l153-201l153+390l508+390l508+321l217+321l217-201|l282-201l282+251l508+251l508+181l347+181l347-201|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

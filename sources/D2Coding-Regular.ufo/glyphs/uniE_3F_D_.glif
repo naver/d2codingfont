@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniE3FD" format="2">
+  <advance width="1000"/>
+  <unicode hex="E3FD"/>
+  <outline>
+    <contour>
+      <point x="408" y="-178" type="line"/>
+      <point x="408" y="425" type="line"/>
+      <point x="147" y="302" type="line"/>
+      <point x="498" y="781" type="line"/>
+      <point x="852" y="302" type="line"/>
+      <point x="591" y="425" type="line"/>
+      <point x="591" y="-178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1000l408-178l408+425l147+302l498+781l852+302l591+425l591-178|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

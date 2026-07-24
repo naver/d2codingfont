@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0196" format="2">
+  <advance width="500"/>
+  <unicode hex="0196"/>
+  <outline>
+    <contour>
+      <point x="409" y="694" type="line"/>
+      <point x="409" y="602" type="line"/>
+      <point x="303" y="602" type="line"/>
+      <point x="303" y="113" type="line"/>
+      <point x="303" y="104"/>
+      <point x="311" y="104" type="qcurve"/>
+      <point x="447" y="104" type="line"/>
+      <point x="447" y="16" type="line"/>
+      <point x="285" y="16" type="line"/>
+      <point x="241" y="16"/>
+      <point x="194" y="68"/>
+      <point x="194" y="104" type="qcurve"/>
+      <point x="194" y="602" type="line"/>
+      <point x="88" y="602" type="line"/>
+      <point x="88" y="694" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+SVTCA[0]	/* SetFPVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+5
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+14
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+0
+MDAP[1]	/* MoveDirectAbsPt */
+NPUSHW[ ]	/* 3 values pushed */
+159 0 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+111 0 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 2 values pushed */
+1 1
+MIRP[10100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 13 values pushed */
+96 5 112 5 128 5 144 5 160 5 176 5 6
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+5
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+8 1
+MIRP[10100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 3 values pushed */
+111 14 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 3 values pushed */
+159 14 1
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+14
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+13 1
+MIRP[10100]	/* MoveIndirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w500l409+694l409+602l303+602l303+113o303+104q311+104l447+104l447+16l285+16o241+16o194+68q194+104l194+602l88+602l88+694|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
