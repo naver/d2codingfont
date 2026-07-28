@@ -4,55 +4,65 @@
   <unicode hex="2070"/>
   <outline>
     <contour>
-      <point x="226" y="553" type="qcurve"/>
-      <point x="236" y="562"/>
-      <point x="249" y="562" type="qcurve"/>
-      <point x="264" y="562"/>
-      <point x="274" y="553" type="qcurve"/>
-      <point x="283" y="544"/>
-      <point x="283" y="531" type="qcurve"/>
-      <point x="283" y="517"/>
-      <point x="274" y="509" type="qcurve"/>
-      <point x="263" y="501"/>
-      <point x="235" y="501"/>
-      <point x="217" y="518"/>
-      <point x="217" y="544"/>
+      <point x="287" y="704" type="qcurve"/>
+      <point x="209" y="704"/>
+      <point x="168" y="652" type="qcurve"/>
+      <point x="129" y="603"/>
+      <point x="129" y="421"/>
+      <point x="168" y="372" type="qcurve"/>
+      <point x="208" y="321"/>
+      <point x="287" y="321" type="qcurve"/>
+      <point x="365" y="321"/>
+      <point x="407" y="372" type="qcurve"/>
+      <point x="447" y="421"/>
+      <point x="447" y="512" type="qcurve"/>
+      <point x="447" y="604"/>
+      <point x="407" y="652" type="qcurve"/>
+      <point x="366" y="704"/>
     </contour>
     <contour>
-      <point x="250" y="670" type="qcurve"/>
-      <point x="214" y="670"/>
-      <point x="197" y="635" type="qcurve"/>
-      <point x="179" y="601"/>
-      <point x="179" y="530" type="qcurve"/>
-      <point x="179" y="459"/>
-      <point x="197" y="425" type="qcurve"/>
-      <point x="214" y="390"/>
-      <point x="250" y="390" type="qcurve"/>
-      <point x="286" y="390"/>
-      <point x="303" y="425" type="qcurve"/>
-      <point x="320" y="459"/>
-      <point x="320" y="530" type="qcurve"/>
-      <point x="320" y="601"/>
-      <point x="303" y="635" type="qcurve"/>
-      <point x="286" y="670"/>
+      <point x="344" y="496" type="qcurve"/>
+      <point x="342" y="446"/>
+      <point x="328" y="422" type="qcurve"/>
+      <point x="315" y="399"/>
+      <point x="287" y="399" type="qcurve"/>
+      <point x="260" y="399"/>
+      <point x="247" y="422" type="qcurve"/>
+      <point x="246" y="422" type="line"/>
+      <point x="231" y="447"/>
+      <point x="230" y="501" type="qcurve"/>
+      <point x="233" y="486"/>
+      <point x="247" y="475" type="qcurve"/>
+      <point x="263" y="462"/>
+      <point x="286" y="462" type="qcurve"/>
+      <point x="308" y="462"/>
+      <point x="326" y="473" type="qcurve"/>
+      <point x="327" y="474"/>
+      <point x="328" y="474" type="qcurve"/>
+      <point x="340" y="483"/>
     </contour>
     <contour>
-      <point x="250" y="706" type="qcurve"/>
-      <point x="310" y="706"/>
-      <point x="341" y="661" type="qcurve"/>
-      <point x="372" y="617"/>
-      <point x="372" y="530" type="qcurve"/>
-      <point x="372" y="444"/>
-      <point x="341" y="399" type="qcurve"/>
-      <point x="310" y="355"/>
-      <point x="250" y="355" type="qcurve"/>
-      <point x="189" y="355"/>
-      <point x="159" y="399" type="qcurve"/>
-      <point x="129" y="444"/>
-      <point x="129" y="530" type="qcurve"/>
-      <point x="129" y="617"/>
-      <point x="159" y="661" type="qcurve"/>
-      <point x="190" y="706"/>
+      <point x="247" y="552" type="qcurve"/>
+      <point x="247" y="551"/>
+      <point x="246" y="551" type="qcurve"/>
+      <point x="233" y="540"/>
+      <point x="230" y="525" type="qcurve"/>
+      <point x="231" y="577"/>
+      <point x="246" y="602" type="qcurve"/>
+      <point x="247" y="602" type="line"/>
+      <point x="260" y="625"/>
+      <point x="287" y="625" type="qcurve"/>
+      <point x="315" y="625"/>
+      <point x="328" y="602" type="qcurve"/>
+      <point x="342" y="578"/>
+      <point x="344" y="529" type="qcurve"/>
+      <point x="340" y="541"/>
+      <point x="329" y="551" type="qcurve"/>
+      <point x="328" y="551"/>
+      <point x="328" y="552" type="qcurve"/>
+      <point x="311" y="565"/>
+      <point x="286" y="565" type="qcurve"/>
+      <point x="264" y="565"/>
     </contour>
   </outline>
   <lib>
@@ -66,7 +76,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>f338c7d86d51fdc33d895fe629fcbf0a34565edb3b7aa1a505dc4033572638c8c412cb7cc8de1126654eb044861c799716d24e14033e231447f3c00355454268</string>
+        <string>bc46e6514caab0ced50d11598bf800e50a5338758a1fba30fb12edc25c5157559b1b477829ee85e27f36adbb7107aa7280972445600f96e3250eb1c99a98fad4</string>
       </dict>
     </dict>
   </lib>

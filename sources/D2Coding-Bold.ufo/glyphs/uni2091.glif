@@ -4,37 +4,70 @@
   <unicode hex="2091"/>
   <outline>
     <contour>
-      <point x="376" y="142" type="qcurve"/>
-      <point x="376" y="122" type="line"/>
-      <point x="173" y="122" type="line"/>
-      <point x="173" y="121" type="line"/>
-      <point x="173" y="79"/>
-      <point x="222" y="34"/>
-      <point x="266" y="34" type="qcurve"/>
-      <point x="288" y="34"/>
-      <point x="337" y="46"/>
-      <point x="365" y="59" type="qcurve"/>
-      <point x="365" y="18" type="line"/>
-      <point x="339" y="8"/>
-      <point x="289" y="-2"/>
-      <point x="266" y="-2" type="qcurve"/>
-      <point x="198" y="-2"/>
-      <point x="124" y="69"/>
-      <point x="124" y="132" type="qcurve"/>
-      <point x="124" y="192"/>
-      <point x="197" y="265"/>
-      <point x="259" y="265" type="qcurve"/>
-      <point x="313" y="265"/>
-      <point x="376" y="200"/>
+      <point x="452" y="159" type="line"/>
+      <point x="452" y="225"/>
+      <point x="409" y="263" type="qcurve"/>
+      <point x="367" y="300"/>
+      <point x="298" y="300" type="qcurve"/>
+      <point x="220" y="300"/>
+      <point x="173" y="259" type="qcurve"/>
+      <point x="124" y="217"/>
+      <point x="124" y="149" type="qcurve"/>
+      <point x="124" y="78"/>
+      <point x="174" y="37" type="qcurve"/>
+      <point x="222" y="-2"/>
+      <point x="306" y="-2" type="qcurve"/>
+      <point x="334" y="-2"/>
+      <point x="394" y="8"/>
+      <point x="424" y="19" type="qcurve"/>
+      <point x="428" y="20"/>
+      <point x="431" y="22" type="qcurve"/>
+      <point x="433" y="24"/>
+      <point x="435" y="27" type="qcurve"/>
+      <point x="437" y="29"/>
+      <point x="439" y="33" type="qcurve"/>
+      <point x="440" y="36"/>
+      <point x="440" y="40" type="qcurve"/>
+      <point x="440" y="79" type="line"/>
+      <point x="440" y="83"/>
+      <point x="438" y="87" type="qcurve"/>
+      <point x="436" y="91" type="line"/>
+      <point x="435" y="93"/>
+      <point x="433" y="94" type="qcurve"/>
+      <point x="432" y="96"/>
+      <point x="430" y="97" type="qcurve"/>
+      <point x="422" y="101" type="line"/>
+      <point x="414" y="101" type="line"/>
+      <point x="411" y="100"/>
+      <point x="409" y="100" type="qcurve"/>
+      <point x="380" y="88"/>
+      <point x="354" y="82" type="qcurve"/>
+      <point x="329" y="77"/>
+      <point x="306" y="77" type="qcurve"/>
+      <point x="264" y="77"/>
+      <point x="242" y="94" type="qcurve"/>
+      <point x="231" y="103"/>
+      <point x="226" y="118" type="qcurve"/>
+      <point x="434" y="118" type="line"/>
+      <point x="436" y="119"/>
+      <point x="438" y="119" type="qcurve"/>
+      <point x="442" y="121" type="line"/>
+      <point x="444" y="123"/>
+      <point x="446" y="124" type="qcurve"/>
+      <point x="448" y="128" type="line"/>
+      <point x="449" y="129"/>
+      <point x="450" y="131" type="qcurve"/>
+      <point x="452" y="135" type="line"/>
     </contour>
     <contour>
-      <point x="329" y="155" type="line"/>
-      <point x="329" y="191"/>
-      <point x="291" y="230"/>
-      <point x="256" y="230" type="qcurve"/>
-      <point x="222" y="230"/>
-      <point x="178" y="190"/>
-      <point x="174" y="154" type="qcurve"/>
+      <point x="351" y="193" type="qcurve"/>
+      <point x="232" y="193" type="line"/>
+      <point x="237" y="201"/>
+      <point x="245" y="207" type="qcurve"/>
+      <point x="264" y="222"/>
+      <point x="326" y="222"/>
+      <point x="341" y="209" type="qcurve"/>
+      <point x="348" y="203"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +81,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>b085f811c33fd42e11f87fa0ac420a72e223c3be4e62b9bfc78bfb2b9aa5e5d2663e9cbcc8a075469e0c24b17c1e52dfdbe0474313554637fbb66b98bfa793ce</string>
+        <string>9b5e7cd1b55108f2536430c299dc6582bebfbda8b8134f8b97726aa88872b654ed2681c2b7af315c68a5a88514808508f65e35ddf8d5dc7f45e219da19c1df9b</string>
       </dict>
     </dict>
   </lib>

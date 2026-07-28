@@ -4,16 +4,100 @@
   <unicode hex="207C"/>
   <outline>
     <contour>
-      <point x="115" y="479" type="line"/>
-      <point x="385" y="479" type="line"/>
-      <point x="385" y="440" type="line"/>
-      <point x="115" y="440" type="line"/>
+      <point x="137" y="482" type="line"/>
+      <point x="135" y="482"/>
+      <point x="133" y="481" type="qcurve"/>
+      <point x="130" y="481"/>
+      <point x="126" y="479"/>
+      <point x="125" y="478" type="qcurve"/>
+      <point x="123" y="477"/>
+      <point x="121" y="475" type="qcurve"/>
+      <point x="120" y="474"/>
+      <point x="119" y="472" type="qcurve"/>
+      <point x="117" y="470"/>
+      <point x="117" y="468" type="qcurve"/>
+      <point x="115" y="464" type="line"/>
+      <point x="115" y="418" type="line"/>
+      <point x="117" y="414" type="line"/>
+      <point x="117" y="412"/>
+      <point x="119" y="410" type="qcurve"/>
+      <point x="121" y="406" type="line"/>
+      <point x="125" y="404" type="line"/>
+      <point x="126" y="403"/>
+      <point x="130" y="401"/>
+      <point x="133" y="400" type="qcurve"/>
+      <point x="445" y="400" type="line"/>
+      <point x="448" y="401"/>
+      <point x="452" y="403"/>
+      <point x="453" y="404" type="qcurve"/>
+      <point x="457" y="406" type="line"/>
+      <point x="459" y="410" type="line"/>
+      <point x="461" y="412"/>
+      <point x="461" y="414" type="qcurve"/>
+      <point x="463" y="418" type="line"/>
+      <point x="463" y="464" type="line"/>
+      <point x="461" y="468" type="line"/>
+      <point x="461" y="470"/>
+      <point x="459" y="472" type="qcurve"/>
+      <point x="458" y="474"/>
+      <point x="457" y="475" type="qcurve"/>
+      <point x="455" y="477"/>
+      <point x="453" y="478" type="qcurve"/>
+      <point x="452" y="479"/>
+      <point x="448" y="481"/>
+      <point x="445" y="481" type="qcurve"/>
+      <point x="443" y="482"/>
+      <point x="441" y="482" type="qcurve"/>
     </contour>
     <contour>
-      <point x="115" y="572" type="line"/>
-      <point x="385" y="572" type="line"/>
-      <point x="385" y="533" type="line"/>
-      <point x="115" y="533" type="line"/>
+      <point x="133" y="571" type="line"/>
+      <point x="130" y="570"/>
+      <point x="128" y="570" type="qcurve"/>
+      <point x="126" y="569"/>
+      <point x="125" y="568" type="qcurve"/>
+      <point x="123" y="566"/>
+      <point x="121" y="565" type="qcurve"/>
+      <point x="120" y="563"/>
+      <point x="119" y="562" type="qcurve"/>
+      <point x="117" y="560"/>
+      <point x="117" y="558" type="qcurve"/>
+      <point x="115" y="554" type="line"/>
+      <point x="115" y="507" type="line"/>
+      <point x="117" y="503" type="line"/>
+      <point x="117" y="501"/>
+      <point x="119" y="499" type="qcurve"/>
+      <point x="120" y="498"/>
+      <point x="121" y="496" type="qcurve"/>
+      <point x="123" y="495"/>
+      <point x="125" y="493" type="qcurve"/>
+      <point x="126" y="492"/>
+      <point x="128" y="491" type="qcurve"/>
+      <point x="130" y="491"/>
+      <point x="133" y="490" type="qcurve"/>
+      <point x="445" y="490" type="line"/>
+      <point x="448" y="491"/>
+      <point x="450" y="491" type="qcurve"/>
+      <point x="452" y="492"/>
+      <point x="453" y="493" type="qcurve"/>
+      <point x="455" y="495"/>
+      <point x="457" y="496" type="qcurve"/>
+      <point x="458" y="498"/>
+      <point x="459" y="499" type="qcurve"/>
+      <point x="461" y="501"/>
+      <point x="461" y="503" type="qcurve"/>
+      <point x="463" y="507" type="line"/>
+      <point x="463" y="554" type="line"/>
+      <point x="461" y="558" type="line"/>
+      <point x="461" y="560"/>
+      <point x="459" y="562" type="qcurve"/>
+      <point x="458" y="563"/>
+      <point x="457" y="565" type="qcurve"/>
+      <point x="455" y="566"/>
+      <point x="453" y="568" type="qcurve"/>
+      <point x="452" y="569"/>
+      <point x="450" y="570" type="qcurve"/>
+      <point x="448" y="570"/>
+      <point x="445" y="571" type="qcurve"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +111,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>w500l115+479l385+479l385+440l115+440|l115+572l385+572l385+533l115+533|</string>
+        <string>dbe99f15593a2d95fff85fea3497e2408c6bc2aec65dd8dd4b0fff73e7a5eb73cd57bd0aa57e3e876943a01f8776ca002f8ccb8019dd54d0d8d60f434fda242a</string>
       </dict>
     </dict>
   </lib>

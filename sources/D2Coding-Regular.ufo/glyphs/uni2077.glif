@@ -4,13 +4,45 @@
   <unicode hex="2077"/>
   <outline>
     <contour>
-      <point x="129" y="699" type="line"/>
-      <point x="365" y="699" type="line"/>
-      <point x="365" y="679" type="line"/>
-      <point x="231" y="361" type="line"/>
-      <point x="178" y="361" type="line"/>
-      <point x="309" y="660" type="line"/>
-      <point x="129" y="660" type="line"/>
+      <point x="140" y="691" type="line"/>
+      <point x="138" y="691"/>
+      <point x="136" y="690" type="qcurve"/>
+      <point x="132" y="688" type="line"/>
+      <point x="130" y="684" type="line"/>
+      <point x="129" y="682"/>
+      <point x="129" y="680" type="qcurve"/>
+      <point x="129" y="641" type="line"/>
+      <point x="129" y="639"/>
+      <point x="130" y="637" type="qcurve"/>
+      <point x="132" y="633" type="line"/>
+      <point x="136" y="631" type="line"/>
+      <point x="138" y="630"/>
+      <point x="140" y="630" type="qcurve"/>
+      <point x="331" y="630" type="line"/>
+      <point x="187" y="346" type="line"/>
+      <point x="186" y="344"/>
+      <point x="186" y="341" type="qcurve"/>
+      <point x="186" y="339"/>
+      <point x="187" y="337" type="qcurve"/>
+      <point x="189" y="333" type="line"/>
+      <point x="193" y="331" type="line"/>
+      <point x="195" y="330"/>
+      <point x="197" y="330" type="qcurve"/>
+      <point x="258" y="330" type="line"/>
+      <point x="262" y="330"/>
+      <point x="264" y="332" type="qcurve"/>
+      <point x="267" y="333"/>
+      <point x="268" y="336" type="qcurve"/>
+      <point x="424" y="655" type="line"/>
+      <point x="425" y="657"/>
+      <point x="425" y="660" type="qcurve"/>
+      <point x="425" y="680" type="line"/>
+      <point x="425" y="682"/>
+      <point x="424" y="684" type="qcurve"/>
+      <point x="422" y="688" type="line"/>
+      <point x="418" y="690" type="line"/>
+      <point x="416" y="691"/>
+      <point x="414" y="691" type="qcurve"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +56,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>w500l129+699l365+699l365+679l231+361l178+361l309+660l129+660|</string>
+        <string>d2b9576739193d8f171a36efd3f63f87613edc34965d0d5a17295a0c9cb439aa580ec412ba1f896f3c8fdfd608db5788187012a17435317b12376ca939de2943</string>
       </dict>
     </dict>
   </lib>
