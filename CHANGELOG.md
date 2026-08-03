@@ -5,6 +5,17 @@ The archive for every version is attached to its tag on the
 predate this repository; their archives were re-uploaded when the project moved from
 dev.naver.com to GitHub, and their dates below come from the archive names.
 
+## Unreleased
+
+- Rebuilt the superscripts, subscripts and vulgar fractions so they match the rest of
+  the font ([#102](https://github.com/naver/d2-coding-font/issues/102)). U+2070 to
+  U+209C and U+2150 to U+215F did not come from the same drawing as the other
+  figures: they were lighter and smaller, they sat on their own vertical band, and
+  their outlines were identical in Regular and Bold, so they stayed at Regular weight
+  in the bold font. They are now built to the proportions of the drawn `¹ ² ³` and
+  `¼ ½ ¾`, which are themselves unchanged. The fraction slash U+2044 is bold in the
+  bold font as well.
+
 ## 1.3.3 (2026-07-25)
 
 A metadata-only release. Only the `name` and `head` tables were rewritten; every other

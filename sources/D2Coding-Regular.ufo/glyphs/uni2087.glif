@@ -4,13 +4,45 @@
   <unicode hex="2087"/>
   <outline>
     <contour>
-      <point x="129" y="343" type="line"/>
-      <point x="365" y="343" type="line"/>
-      <point x="365" y="323" type="line"/>
-      <point x="231" y="5" type="line"/>
-      <point x="178" y="5" type="line"/>
-      <point x="309" y="304" type="line"/>
-      <point x="129" y="304" type="line"/>
+      <point x="140" y="366" type="line"/>
+      <point x="138" y="366"/>
+      <point x="136" y="365" type="qcurve"/>
+      <point x="132" y="363" type="line"/>
+      <point x="130" y="359" type="line"/>
+      <point x="129" y="357"/>
+      <point x="129" y="355" type="qcurve"/>
+      <point x="129" y="316" type="line"/>
+      <point x="129" y="314"/>
+      <point x="130" y="312" type="qcurve"/>
+      <point x="132" y="308" type="line"/>
+      <point x="136" y="306" type="line"/>
+      <point x="138" y="305"/>
+      <point x="140" y="305" type="qcurve"/>
+      <point x="331" y="305" type="line"/>
+      <point x="187" y="21" type="line"/>
+      <point x="186" y="19"/>
+      <point x="186" y="16" type="qcurve"/>
+      <point x="186" y="14"/>
+      <point x="187" y="12" type="qcurve"/>
+      <point x="189" y="8" type="line"/>
+      <point x="193" y="6" type="line"/>
+      <point x="195" y="5"/>
+      <point x="197" y="5" type="qcurve"/>
+      <point x="258" y="5" type="line"/>
+      <point x="262" y="5"/>
+      <point x="264" y="7" type="qcurve"/>
+      <point x="267" y="8"/>
+      <point x="268" y="11" type="qcurve"/>
+      <point x="424" y="330" type="line"/>
+      <point x="425" y="332"/>
+      <point x="425" y="335" type="qcurve"/>
+      <point x="425" y="355" type="line"/>
+      <point x="425" y="357"/>
+      <point x="424" y="359" type="qcurve"/>
+      <point x="422" y="363" type="line"/>
+      <point x="418" y="365" type="line"/>
+      <point x="416" y="366"/>
+      <point x="414" y="366" type="qcurve"/>
     </contour>
   </outline>
   <lib>
@@ -24,7 +56,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>w500l129+343l365+343l365+323l231+5l178+5l309+304l129+304|</string>
+        <string>ab97548b8b1050f8fbd29bf4b7026b5add52731e366c6dd47bbab6666fcdc919d4d67109176c256e96c6d5673905bc680007d485e35bd480ce6731d27f359173</string>
       </dict>
     </dict>
   </lib>

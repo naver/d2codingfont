@@ -4,10 +4,34 @@
   <unicode hex="208B"/>
   <outline>
     <contour>
-      <point x="115" y="170" type="line"/>
-      <point x="385" y="170" type="line"/>
-      <point x="385" y="132" type="line"/>
-      <point x="115" y="132" type="line"/>
+      <point x="115" y="142" type="line"/>
+      <point x="115" y="140"/>
+      <point x="117" y="136"/>
+      <point x="118" y="134" type="qcurve"/>
+      <point x="120" y="133"/>
+      <point x="124" y="131"/>
+      <point x="126" y="131" type="qcurve"/>
+      <point x="440" y="131" type="line"/>
+      <point x="442" y="131"/>
+      <point x="446" y="133"/>
+      <point x="448" y="134" type="qcurve"/>
+      <point x="449" y="136"/>
+      <point x="451" y="140"/>
+      <point x="451" y="142" type="qcurve"/>
+      <point x="451" y="180" type="line"/>
+      <point x="451" y="182"/>
+      <point x="449" y="186"/>
+      <point x="448" y="188" type="qcurve"/>
+      <point x="446" y="189"/>
+      <point x="442" y="191"/>
+      <point x="440" y="191" type="qcurve"/>
+      <point x="126" y="191" type="line"/>
+      <point x="124" y="191"/>
+      <point x="120" y="189"/>
+      <point x="118" y="188" type="qcurve"/>
+      <point x="117" y="186"/>
+      <point x="115" y="182"/>
+      <point x="115" y="180" type="qcurve"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +45,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>w500l115+170l385+170l385+132l115+132|</string>
+        <string>5d056e66bba9cec63171191ee86e6cde2446ce0761c4420297939baf90b6f545bbd80aab7ac7525138bf77a4d2ad25d9d9e182f05504f6f508d83fa74bd8104c</string>
       </dict>
     </dict>
   </lib>

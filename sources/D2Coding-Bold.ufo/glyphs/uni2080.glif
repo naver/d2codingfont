@@ -4,55 +4,65 @@
   <unicode hex="2080"/>
   <outline>
     <contour>
-      <point x="226" y="197" type="qcurve"/>
-      <point x="236" y="206"/>
-      <point x="249" y="206" type="qcurve"/>
-      <point x="264" y="206"/>
-      <point x="274" y="197" type="qcurve"/>
-      <point x="283" y="188"/>
-      <point x="283" y="175" type="qcurve"/>
-      <point x="283" y="161"/>
-      <point x="274" y="153" type="qcurve"/>
-      <point x="263" y="145"/>
-      <point x="235" y="145"/>
-      <point x="217" y="162"/>
-      <point x="217" y="188"/>
+      <point x="287" y="382" type="qcurve"/>
+      <point x="209" y="382"/>
+      <point x="168" y="330" type="qcurve"/>
+      <point x="129" y="281"/>
+      <point x="129" y="99"/>
+      <point x="168" y="50" type="qcurve"/>
+      <point x="208" y="-1"/>
+      <point x="287" y="-1" type="qcurve"/>
+      <point x="365" y="-1"/>
+      <point x="407" y="50" type="qcurve"/>
+      <point x="447" y="99"/>
+      <point x="447" y="190" type="qcurve"/>
+      <point x="447" y="282"/>
+      <point x="407" y="330" type="qcurve"/>
+      <point x="366" y="382"/>
     </contour>
     <contour>
-      <point x="250" y="314" type="qcurve"/>
-      <point x="214" y="314"/>
-      <point x="197" y="279" type="qcurve"/>
-      <point x="179" y="245"/>
-      <point x="179" y="174" type="qcurve"/>
-      <point x="179" y="103"/>
-      <point x="197" y="69" type="qcurve"/>
-      <point x="214" y="34"/>
-      <point x="250" y="34" type="qcurve"/>
-      <point x="286" y="34"/>
-      <point x="303" y="69" type="qcurve"/>
-      <point x="320" y="103"/>
-      <point x="320" y="174" type="qcurve"/>
-      <point x="320" y="245"/>
-      <point x="303" y="279" type="qcurve"/>
-      <point x="286" y="314"/>
+      <point x="344" y="174" type="qcurve"/>
+      <point x="342" y="124"/>
+      <point x="328" y="100" type="qcurve"/>
+      <point x="315" y="77"/>
+      <point x="287" y="77" type="qcurve"/>
+      <point x="260" y="77"/>
+      <point x="247" y="100" type="qcurve"/>
+      <point x="246" y="100" type="line"/>
+      <point x="231" y="125"/>
+      <point x="230" y="179" type="qcurve"/>
+      <point x="233" y="164"/>
+      <point x="247" y="153" type="qcurve"/>
+      <point x="263" y="140"/>
+      <point x="286" y="140" type="qcurve"/>
+      <point x="308" y="140"/>
+      <point x="326" y="151" type="qcurve"/>
+      <point x="327" y="152"/>
+      <point x="328" y="152" type="qcurve"/>
+      <point x="340" y="161"/>
     </contour>
     <contour>
-      <point x="250" y="350" type="qcurve"/>
-      <point x="310" y="350"/>
-      <point x="341" y="305" type="qcurve"/>
-      <point x="372" y="261"/>
-      <point x="372" y="174" type="qcurve"/>
-      <point x="372" y="88"/>
-      <point x="341" y="43" type="qcurve"/>
-      <point x="310" y="-1"/>
-      <point x="250" y="-1" type="qcurve"/>
-      <point x="189" y="-1"/>
-      <point x="159" y="43" type="qcurve"/>
-      <point x="129" y="88"/>
-      <point x="129" y="174" type="qcurve"/>
-      <point x="129" y="261"/>
-      <point x="159" y="305" type="qcurve"/>
-      <point x="190" y="350"/>
+      <point x="247" y="230" type="qcurve"/>
+      <point x="247" y="229"/>
+      <point x="246" y="229" type="qcurve"/>
+      <point x="233" y="218"/>
+      <point x="230" y="203" type="qcurve"/>
+      <point x="231" y="255"/>
+      <point x="246" y="280" type="qcurve"/>
+      <point x="247" y="280" type="line"/>
+      <point x="260" y="303"/>
+      <point x="287" y="303" type="qcurve"/>
+      <point x="315" y="303"/>
+      <point x="328" y="280" type="qcurve"/>
+      <point x="342" y="256"/>
+      <point x="344" y="207" type="qcurve"/>
+      <point x="340" y="219"/>
+      <point x="329" y="229" type="qcurve"/>
+      <point x="328" y="229"/>
+      <point x="328" y="230" type="qcurve"/>
+      <point x="311" y="243"/>
+      <point x="286" y="243" type="qcurve"/>
+      <point x="264" y="243"/>
     </contour>
   </outline>
   <lib>
@@ -66,7 +76,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>1bc526996317354cac3e0b5ea81355f99495db646b390e532a152f6002db9e5aae22be3fc41f1dda4a9bbebf1640b75db010af620091e5ed1b6aa9fb70928f89</string>
+        <string>354948455b3aea647f6456b9bf2ca57dd8d2230de4948dd8197b56ced888ee89fdc52ea7422213158be8e166af2689088acd61b314dcc1df48a5693155d3f348</string>
       </dict>
     </dict>
   </lib>
